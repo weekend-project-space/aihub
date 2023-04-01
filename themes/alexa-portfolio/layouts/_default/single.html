@@ -1,0 +1,74 @@
+{{ define "main" }}
+<div class="mb-2 ">
+	<div class="container work-detail__container c-cover mt-2">
+		<div class="c-cover__background background-gradient" data-color="{{ .Params.color }}"></div>
+		<img class="c-cover__image" src="{{ .Params.cover_image }}" alt="{{ .Title }}" />
+	</div>
+	<style>
+		.projects-link a svg {
+			width: 20px;
+			height: 20px;
+		}
+	</style>
+	<div class=" c-content__center pb-1 pt-3">
+		<h2 class="section__title pb-3">{{ .Title }}</h2>
+		<span class="section__subtitle work__subtitle h4 mb-2">{{ .Params.job_type }}</span>
+		<!-- Post Tags -->
+		{{ if .Params.tags }}
+		<ul class="c-tags">
+			{{ range .Params.tags }} {{ $href := print (absURL "tags/") (urlize .) }}
+			<li class="c-tags__item">
+				<a href="{{$href}}" class="c-tags__label">
+					{{ . }}
+				</a>
+			</li>
+			{{ end }}
+		</ul>
+		{{ end }}
+		<!-- Content -->
+		<div class="container work__container">
+			{{ .Content }}
+			<ul class="c-tags justify-start mt-1">
+				{{ if .Params.github_link }}
+				<li class="c-tags__item ">
+					<a class="c-tags__label button py-1" href="{{ .Params.github_link }}" target="_blank">
+						<i class="fab fa-github"></i> Github
+					</a>
+				</li>
+				{{ end }}
+				{{ if .Params.website_link }}
+				<li class="c-tags__item">
+					<a class="c-tags__label button py-1" href="{{ .Params.website_link }}" target="_blank">
+						<i class="fas fa-link"></i> 网站
+					</a>
+				</li>
+				{{ end }}
+			</ul>
+
+			<!-- Post Nav -->
+			{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
+			{{ if and (gt (len $pages) 1) (in $pages . ) }}
+			<nav class="flex mt-3">
+				<div>
+					{{ with $pages.Next . }}
+					<a class="link" href="{{ .Permalink }}"><span class="mr-1.5">←</span><span>{{ .Name
+							}}</span></a>
+					{{ end }}<!---->
+				</div>
+				<div>
+					{{ with $pages.Prev . }}
+					<a class="link" href="{{ .Permalink }}"><span>{{ .Name }}</span><span>→</span></a>
+					{{ end }}
+				</div>
+			</nav>
+			{{ end }}
+		</div>
+
+
+
+
+
+		{{- partial "social.html" . -}}
+	</div>
+</div>
+{{end}}

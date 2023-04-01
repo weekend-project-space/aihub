@@ -1,0 +1,58 @@
+{{ define "main" }}
+<section class="home section mt-5" id="home">
+  <div class="home__container container grid">
+    <div class="home__content grid">
+      <div class="home__social">
+        <a href="{{ .Site.Params.website }}" target="_blank" class="home__social-icon">
+          <i class="fab fa-chrome"></i>
+        </a>
+        <a href="{{ .Site.Params.github }}" target="_blank" class="home__social-icon">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="{{ .Site.Params.twitter }}" target="_blank" class="home__social-icon">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </div>
+      <!-- <div class="home__social"></div> -->
+      <div class="home__img">
+        <div class="home">
+          <img src="https://res.cloudinary.com/bonzdev/image/upload/v1622180868/bonzdev/Asset_1_raeif3.svg"
+            class="home__blob-img">
+        </div>
+      </div>
+      <div class="home__data">
+        <h1 class="home__title">{{ .Site.Params.home_title }}</h1>
+        <h3 class="home__subtitle">{{ .Site.Params.home_subtitle }}</h3>
+        <p class="home__description">{{ .Site.Params.home_description }}</p>
+        <a href="https://github.com/weekend-project-space/aihub/pulls" class="button button--flex">
+          {{.Site.Params.home_btn}} <i class="fab fa-telegram-plane button__icon"></i>
+        </a>
+
+      </div>
+    </div>
+  </div>
+  <div class="container mt-15">
+    <h2 class="flex">应用 <a href="/application">查看更多</a></h2>
+    <div class="c-cases px-3">
+
+      {{ $pages := where site.RegularPages "Params.categories" "application"}}
+      {{ $paginator := .Paginate $pages }}
+      {{ range $index, $page := $paginator.Pages}}
+      <a href="{{ .Permalink }}" class="c-case enter-fade-up enter-delay-1 background-gradient"
+        data-color="{{ .Params.color }}">
+        <div class="c-case__image" style="background-image: url('{{ .Params.thumb_image }}')">
+        </div>
+        <div class="c-case__info" style="background: {{ .Params.color }}">
+          <div class="c-case__title">{{ .Title }}</div>
+          <div class="c-case__subtitle">{{ .Params.description }}</div>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+
+
+
+{{ end }}

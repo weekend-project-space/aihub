@@ -1,0 +1,47 @@
+{{ define "main" }}
+<section class="work section mt-5" id="work">
+	<h2 class="section__title">
+		{{ if and .Title (eq .Type "tags") }}{{.Type}}: {{end}}
+		{{ .Title }}
+
+	</h2>
+	{{ $pages := union .RegularPages .Sections }}
+	{{ if (ne .Type "tags")}}
+	{{ $pages = where site.RegularPages "Params.categories" .Type}}
+	{{end}}
+	<span class="section__subtitle work__subtitle h4 mb-1">{{ .Description }}</span>
+	<div class="c-cases px-3">
+
+
+		{{ $paginator := .Paginate $pages }}
+		{{ range $index, $page := $paginator.Pages}}
+		<a href="{{ .Permalink }}" class="c-case enter-fade-up enter-delay-1 background-gradient"
+			data-color="{{ .Params.color }}">
+			<div class="c-case__image" style="background-image: url('{{ .Params.thumb_image }}')">
+			</div>
+			<div class="c-case__info" style="background: {{ .Params.color }}">
+				<div class="c-case__title">{{ .Title }}</div>
+				<div class="c-case__subtitle">{{ .Params.description }}</div>
+			</div>
+		</a>
+		{{ end }}
+
+
+	</div>
+</section>
+<!-- Main Nav -->
+{{ if gt $paginator.TotalPages 1 }}
+<nav class="container paginator flex">
+	<div>
+		{{ if $paginator.HasPrev }}
+		<a class="link" href="{{ $paginator.Prev.URL }}">← {{ i18n "prev_page" }}</a>
+		{{ end }}<!---->
+	</div>
+	<div>
+		{{ if $paginator.HasNext }}
+		<a class="link" href="{{ $paginator.Next.URL }}">{{ i18n "next_page" }} →</a>
+		{{ end }}
+	</div>
+</nav>
+{{ end }}<!---->
+{{ end }}
