@@ -1,7 +1,7 @@
-baseURL = "https://weekendproject.space/"
+baseURL = "https://aihub.bitmagic.space/"
 #title = "Hugo Themes"
 author = "瑞东"
-copyright = "Copyright © 2022"
+copyright = "Copyright © 2023"
 paginate = 12
 languageCode = "en"
 DefaultContentLanguage = "en"
