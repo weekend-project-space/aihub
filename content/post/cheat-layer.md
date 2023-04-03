@@ -7,8 +7,8 @@ tags:
   - "机器学习"
   - "自动化"
   - "软件工程"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://cheatlayer.com/"
 color: "#292148"
 

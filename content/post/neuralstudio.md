@@ -7,8 +7,8 @@ tags:
   - "Diffusion"
   - "头像"
   - "文本转图像"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://neural.cam/studio/"
 color: "#008DE1"
 

@@ -4,8 +4,8 @@ description: "一键为任何语言的视频添加准确的英文字幕。您可
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://www.supertranslate.ai/"
 color: "#666"
 

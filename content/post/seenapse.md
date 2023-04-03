@@ -9,8 +9,8 @@ tags:
   - "广告"
   - "灵感"
   - "营销"
-categories: application
-series: "产品营销 文本处理"
+categories: 产品营销 文本处理
+series: "application"
 website_link: "https://seenapse.ai/"
 color: "#666"
 

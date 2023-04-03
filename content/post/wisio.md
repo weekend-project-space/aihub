@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "翻译"
   - "语言"
-categories: application
-series: "翻译辅助"
+categories: 翻译辅助
+series: "application"
 website_link: "https://wisio.app/"
 color: "#666"
 

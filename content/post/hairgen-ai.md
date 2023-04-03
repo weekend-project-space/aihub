@@ -8,8 +8,8 @@ tags:
   - "形象管理"
   - "生成器"
   - "社交"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.hairgen.ai/"
 color: "#666"
 

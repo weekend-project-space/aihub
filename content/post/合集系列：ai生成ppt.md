@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI"
   - "ppt"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://mp.weixin.qq.com/s/piAJ5PYfNhHGGkwTYTzteg"
 color: "#666"
 

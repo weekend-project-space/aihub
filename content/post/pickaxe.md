@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "创造"
   - "工具"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://beta.pickaxeproject.com/"
 color: "#666"
 

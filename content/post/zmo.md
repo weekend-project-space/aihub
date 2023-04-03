@@ -4,8 +4,8 @@ description: "AI 生成的模型图像 帮助时尚品牌减少等待时间、�
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "产品营销 时尚前沿"
+categories: 产品营销 时尚前沿
+series: "application"
 website_link: "https://www.zmo.ai/"
 color: "#666"
 

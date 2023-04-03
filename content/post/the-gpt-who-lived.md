@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "GPT"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://huggingface.co/"
 color: "#666"
 

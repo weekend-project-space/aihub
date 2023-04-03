@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "品牌"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://crawlq.ai/"
 color: "#666"
 

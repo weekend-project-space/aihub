@@ -8,8 +8,8 @@ tags:
   - "商业理念"
   - "灵感"
   - "论文"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://www.paperade.co/"
 color: "#666"
 

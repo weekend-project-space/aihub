@@ -9,8 +9,8 @@ tags:
   - "播客"
   - "视频生成器"
   - "音频处理"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.audiolabs.io/"
 color: "#666"
 

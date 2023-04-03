@@ -9,8 +9,8 @@ tags:
   - "广告"
   - "文案"
   - "营销"
-categories: application
-series: "产品营销"
+categories: 产品营销
+series: "application"
 website_link: "https://writeseed.com/"
 color: "#666"
 

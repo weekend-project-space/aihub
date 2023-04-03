@@ -7,8 +7,8 @@ tags:
   - "生活"
   - "社交"
   - "约会"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://roast.dating/"
 color: "#666"
 

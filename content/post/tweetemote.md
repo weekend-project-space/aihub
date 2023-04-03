@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "Twitter"
   - "表情"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.tweetemote.com/"
 color: "#666"
 

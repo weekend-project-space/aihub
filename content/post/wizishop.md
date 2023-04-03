@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI写作"
   - "营销"
-categories: application
-series: "产品营销 文本处理"
+categories: 产品营销 文本处理
+series: "application"
 website_link: "https://wizishop.com/ai/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "Discord"
   - "GPT"
   - "聊天机器人"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://thesamur.ai/"
 color: "#666"
 

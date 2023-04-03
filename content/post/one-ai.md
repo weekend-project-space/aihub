@@ -4,8 +4,8 @@ description: "在几天内在您的产品中部署世界上最好的语言 AI。
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://www.oneai.com/"
 color: "#666"
 

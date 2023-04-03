@@ -9,8 +9,8 @@ tags:
   - "开源"
   - "模型生成"
   - "模型训练"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://huggingface.co/spaces/THUDM/CodeGeeX"
 color: "#292148"
 

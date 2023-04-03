@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "博客"
   - "网站运营"
-categories: application
-series: "文本处理 网站播客"
+categories: 文本处理 网站播客
+series: "application"
 website_link: "https://www.blognlp.com/"
 color: "#666"
 

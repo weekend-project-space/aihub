@@ -8,8 +8,8 @@ tags:
   - "生活"
   - "聊天"
   - "语言"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://app.yoodli.ai/"
 color: "#666"
 

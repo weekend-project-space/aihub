@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "3D"
   - "纹理"
-categories: application
-series: "3D创作 游戏辅助"
+categories: 3D创作 游戏辅助
+series: "application"
 website_link: "https://www.texturelab.xyz/"
 color: "#666"
 

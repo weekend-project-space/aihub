@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "总结"
   - "摘要"
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://otter.ai/"
 color: "#666"
 

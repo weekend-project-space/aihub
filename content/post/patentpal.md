@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "专利"
   - "法律"
-categories: application
-series: "法律法规"
+categories: 法律法规
+series: "application"
 website_link: "https://patentpal.com/"
 color: "#666"
 

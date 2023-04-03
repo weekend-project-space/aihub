@@ -7,8 +7,8 @@ tags:
   - "GIF"
   - "头像"
   - "生成器"
-categories: application
-series: "AI应用 AI绘画 图像处理"
+categories: AI应用 AI绘画 图像处理
+series: "application"
 website_link: "https://hey.reface.ai/"
 color: "#008DE1"
 

@@ -7,8 +7,8 @@ tags:
   - "AI绘画"
   - "二次元"
   - "动漫"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://draft.art/drawing"
 color: "#008DE1"
 

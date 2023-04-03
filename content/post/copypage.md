@@ -7,8 +7,8 @@ tags:
   - "博客"
   - "广告"
   - "简历"
-categories: application
-series: "产品营销 文本处理"
+categories: 产品营销 文本处理
+series: "application"
 website_link: "https://www.copypage.online/"
 color: "#666"
 

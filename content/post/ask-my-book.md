@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "数据"
   - "阅读"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://askmybook.com/"
 color: "#666"
 

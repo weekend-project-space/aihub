@@ -7,8 +7,8 @@ tags:
   - "绘画"
   - "艺术"
   - "设计"
-categories: application
-series: "AI绘画 设计辅助"
+categories: AI绘画 设计辅助
+series: "application"
 website_link: "https://www.vizcom.ai/"
 color: "#008DE1"
 

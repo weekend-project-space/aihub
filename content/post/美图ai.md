@@ -7,8 +7,8 @@ tags:
   - "AI平台"
   - "图像处理"
   - "美颜"
-categories: application
-series: "图像处理 开放平台"
+categories: 图像处理 开放平台
+series: "application"
 website_link: "https://ai.meitu.com/"
 color: "#008DE1"
 

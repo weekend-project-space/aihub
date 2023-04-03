@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "插件"
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://tooltips.ai/"
 color: "#666"
 

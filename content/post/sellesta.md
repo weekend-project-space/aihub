@@ -4,8 +4,8 @@ description: "帮助亚马逊卖家优化其产品列表并增加销售额。功
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "产品营销"
+categories: 产品营销
+series: "application"
 website_link: "https://sellesta.ai/"
 color: "#666"
 

@@ -1,52 +1,34 @@
 {{ define "main" }}
 <section class="contact section mt-5" id="contact">
-    <h2 class="section__title">{{ .Title }}</h2>
-    <span class="section__subtitle">{{ .Params.subtitle }}</span>
+  <h2 class="section__title">{{ .Title }}</h2>
+  <span class="section__subtitle">{{ .Params.subtitle }}</span>
 
-    <div class="contact__container container grid">
-      <div>
-        <div class="contact__information">
-          <i class="fas fa-phone-alt contact__icon"></i>
-          <div>
-            <h3 class="contact__title">Call Me</h3>
-            <span class="contact__subtitle">{{ .Site.Params.phone }}</span>
-          </div>
-        </div>
-        <div class="contact__information">
-          <i class="fas fa-envelope contact__icon"></i>
-          <div>
-            <h3 class="contact__title">Email</h3>
-            <span class="contact__subtitle">{{ .Site.Params.email }}</span>
-          </div>
-        </div>
-        <div class="contact__information">
-           <i class="fas fa-map contact__icon"></i>
-          <div>
-            <h3 class="contact__title">Location</h3>
-            <span class="contact__subtitle">{{ .Site.Params.location }}</span>
-          </div>
-        </div>
-      </div>
-      <form name="contact" action="" method="post" class="contact__form grid" data-netlify="true">
-        <input type="hidden" name="form-name" value="contact" />
-        <div class="contact__inputs grid">
-          <div class="contact__content">
-            <label for="" class="contact__label">Name</label>
-            <input type="text" name="name" class="contact__input" required/>
-          </div>
-          <div class="contact__content">
-            <label for="" class="contact__label">Email</label>
-            <input type="email" name="email" class="contact__input" required/>
-          </div>
-          <div class="contact__content">
-            <label for="" class="contact__label">Message</label>
-            <textarea cols="0" name="message" rows="7" class="contact__input" required minlength="20"></textarea>
-          </div>
-          <div>
-            <button type="submit" class="button button--flex">Send Message <uil-message class="button__icon" /></button>
-          </div>
-        </div>
-      </form>
-    </div>
-  </section>
+  <div class="contact__container container grid">
+    <ul class="terms-tags">
+      {{ $type := .Type }}
+      {{ range $key, $value := .Data.Terms.Alphabetical }}
+      {{ $name := .Name }}
+      {{ $count := .Count }}
+      {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+      <li>
+        {{ $largestFontSize := 1.5 }}
+        {{ $smallestFontSize := 1 }}
+        {{ $fontSpread := sub $largestFontSize $smallestFontSize }}
+        {{ $max := add (len (index $.Site.Taxonomies.tags.ByCount 0).Pages) 1 }}
+        {{ $min := len (index $.Site.Taxonomies.tags.ByCount.Reverse 0).Pages }}
+        {{ $spread := sub $max $min }}
+        {{ $fontStep := div $fontSpread $spread }}
+        {{ $weigth := div (sub (math.Log $count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+        {{ $currentFontSize := (add $smallestFontSize (mul (sub $largestFontSize $smallestFontSize) $weigth)) }}
+        <a href="{{ .Permalink }}"
+          style="font-size: {{ $currentFontSize }}rem; font-weight: {{ mul $currentFontSize 200 }};">
+          {{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup>
+        </a>
+      </li>
+      {{- end }}
+      {{- end }}
+    </ul>
+
+  </div>
+</section>
 {{ end }}

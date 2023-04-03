@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "设计"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://www.yarnit.app/"
 color: "#666"
 

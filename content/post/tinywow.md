@@ -7,8 +7,8 @@ tags:
   - "实用工具"
   - "工具箱"
   - "生活"
-categories: application
-series: "办公辅助 生活日常"
+categories: 办公辅助 生活日常
+series: "application"
 website_link: "https://tinywow.com/"
 color: "#666"
 

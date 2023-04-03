@@ -2,11 +2,11 @@
 title: "Type AI"
 description: "AI 驱动的文档编辑器，可帮助您非常快速地编写。它可以让你更快、更容易地写作。"
 author: "瑞东"
-date: "2023-03-30"
+date: "2023-03-31"
 tags:
   - "AI写作"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://type.ai/"
 color: "#666"
 

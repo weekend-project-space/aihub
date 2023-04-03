@@ -7,8 +7,8 @@ tags:
   - "视频剪辑"
   - "配乐"
   - "配音"
-categories: application
-series: "办公辅助 视频处理"
+categories: 办公辅助 视频处理
+series: "application"
 website_link: "https://vidyo.ai/"
 color: "#FF5867"
 

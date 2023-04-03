@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "物体识别"
-categories: application
-series: "生活日常 趣味工具"
+categories: 生活日常 趣味工具
+series: "application"
 website_link: "https://experiments.withgoogle.com/thing-translator"
 color: "#666"
 

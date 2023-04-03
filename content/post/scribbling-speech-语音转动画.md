@@ -7,8 +7,8 @@ tags:
   - "控制"
   - "机械学习"
   - "神经网络"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://experiments.withgoogle.com/scribbling-speech"
 color: "#666"
 

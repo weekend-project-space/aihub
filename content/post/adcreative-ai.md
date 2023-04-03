@@ -7,8 +7,8 @@ tags:
   - "帖子"
   - "广告"
   - "文案"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.adcreative.ai/"
 color: "#666"
 

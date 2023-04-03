@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "博客"
   - "网站"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://katteb.com/"
 color: "#666"
 

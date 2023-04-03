@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "spotify"
   - "文本转语音"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://play.ad-auris.com/"
 color: "#00CC8E"
 

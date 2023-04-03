@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "GPT-3"
   - "新闻稿"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://newswriter.ai/"
 color: "#666"
 

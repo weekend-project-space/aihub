@@ -7,8 +7,8 @@ tags:
   - "图像编辑"
   - "图片修复"
   - "背景消除"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://bgeraser.com/"
 color: "#008DE1"
 

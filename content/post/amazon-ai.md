@@ -4,8 +4,8 @@ description: "了解 AWS 系列的 AI 服务，此类服务提供云原生机器
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "开放平台"
+categories: 开放平台
+series: "application"
 website_link: "https://amazonaws-china.com/cn/events/amazon-ai/"
 color: "#666"
 

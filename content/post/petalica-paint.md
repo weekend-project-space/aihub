@@ -7,8 +7,8 @@ tags:
   - "上色"
   - "线稿"
   - "绘画"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://petalica.com/index_zh.html"
 color: "#008DE1"
 

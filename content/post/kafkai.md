@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "seo"
   - "营销"
-categories: application
-series: "产品营销 文本处理 网站播客"
+categories: 产品营销 文本处理 网站播客
+series: "application"
 website_link: "https://kafkai.com/en/"
 color: "#666"
 

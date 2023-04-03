@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "ppt"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://aippt.wps.cn/welcome"
 color: "#666"
 

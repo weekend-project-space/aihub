@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "食品"
   - "食谱"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.chefgpt.xyz/"
 color: "#666"
 

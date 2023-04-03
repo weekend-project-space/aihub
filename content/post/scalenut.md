@@ -8,8 +8,8 @@ tags:
   - "博客"
   - "网站搭建"
   - "网站运营"
-categories: application
-series: "文本处理 网站播客"
+categories: 文本处理 网站播客
+series: "application"
 website_link: "https://www.scalenut.com/"
 color: "#666"
 

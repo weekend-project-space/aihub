@@ -7,8 +7,8 @@ tags:
   - "信仰"
   - "圣经"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://theoassist.com/login"
 color: "#666"
 

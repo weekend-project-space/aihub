@@ -8,8 +8,8 @@ tags:
   - "图像处理"
   - "帖子"
   - "文案"
-categories: application
-series: "图像处理 媒体社交"
+categories: 图像处理 媒体社交
+series: "application"
 website_link: "https://pixelhunter.io/"
 color: "#008DE1"
 

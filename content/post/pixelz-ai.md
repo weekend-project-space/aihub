@@ -7,8 +7,8 @@ tags:
   - "头像"
   - "生成器"
   - "艺术"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://pixelz.ai/"
 color: "#666"
 

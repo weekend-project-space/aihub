@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "游戏"
   - "趣味"
-categories: application
-series: "游戏辅助 趣味工具"
+categories: 游戏辅助 趣味工具
+series: "application"
 website_link: "https://joinplayroom.com/games/booom/"
 color: "#666"
 

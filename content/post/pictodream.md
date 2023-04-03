@@ -8,8 +8,8 @@ tags:
   - "生成器"
   - "艺术"
   - "虚拟形象"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://pictodream.com/"
 color: "#008DE1"
 

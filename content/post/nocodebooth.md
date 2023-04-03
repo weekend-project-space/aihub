@@ -7,8 +7,8 @@ tags:
   - "代码"
   - "开发"
   - "编程"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://www.nocodebooth.com/"
 color: "#292148"
 

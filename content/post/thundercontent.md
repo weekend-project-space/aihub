@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI写作"
   - "博客"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://thundercontent.com/"
 color: "#666"
 

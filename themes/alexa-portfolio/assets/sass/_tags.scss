@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: -1.6rem;
+  // margin-top: -1.6rem;
 
   @media (max-width: 40em) {
     margin-top: 0;
@@ -36,4 +36,15 @@ a.c-tags__label:hover ,a.link:hover{
 
 .lead + .c-tags {
   margin-top: -1.6rem;
+}
+
+.center{
+  text-align: center;
+}
+
+a.sub{
+  color: #666;
+}
+.dark-theme a.sub{
+  color: #eee;
 }

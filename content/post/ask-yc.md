@@ -7,8 +7,8 @@ tags:
   - "创业"
   - "好奇心"
   - "搜索"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://askyc.com/"
 color: "#666"
 

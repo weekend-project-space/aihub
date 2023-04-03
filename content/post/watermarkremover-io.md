@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "去水印"
   - "图像编辑"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.watermarkremover.io/zh/"
 color: "#008DE1"
 

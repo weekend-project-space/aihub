@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "故事"
   - "音频故事"
-categories: application
-series: "学习教育 故事小说"
+categories: 学习教育 故事小说
+series: "application"
 website_link: "https://tinystorie.com/"
 color: "#FFB65C"
 

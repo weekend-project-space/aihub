@@ -7,8 +7,8 @@ tags:
   - "js"
   - "Python"
   - "代码"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://www.codium.ai/"
 color: "#292148"
 

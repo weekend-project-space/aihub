@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "代码纠错"
   - "开发助手"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://kodezi.com/"
 color: "#292148"
 

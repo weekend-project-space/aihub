@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI写作"
   - "seo"
-categories: application
-series: "文本处理 网站播客"
+categories: 文本处理 网站播客
+series: "application"
 website_link: "https://letterdrop.com/"
 color: "#666"
 

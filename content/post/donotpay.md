@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "机器人"
   - "法律"
-categories: application
-series: "法律法规"
+categories: 法律法规
+series: "application"
 website_link: "https://donotpay.com/"
 color: "#666"
 

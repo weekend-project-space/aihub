@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "生活"
   - "贺卡"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://wewritecards.com/"
 color: "#666"
 

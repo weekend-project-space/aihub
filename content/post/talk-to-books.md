@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "数据"
   - "阅读"
-categories: application
-series: "学术科研"
+categories: 学术科研
+series: "application"
 website_link: "https://books.google.com/talktobooks/"
 color: "#666"
 

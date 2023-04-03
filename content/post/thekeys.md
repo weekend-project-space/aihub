@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "生活"
   - "说话艺术"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.thekeys.ai/"
 color: "#666"
 

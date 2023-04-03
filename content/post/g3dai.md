@@ -4,8 +4,8 @@ description: "只需添加文本提示即可创建所需的任何 3D 资产。�
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "3D创作"
+categories: 3D创作
+series: "application"
 website_link: "https://g3d.ai/"
 color: "#666"
 

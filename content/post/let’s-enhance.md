@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "图像增强"
   - "图像编辑"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://letsenhance.io/"
 color: "#008DE1"
 

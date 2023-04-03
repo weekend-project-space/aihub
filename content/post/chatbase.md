@@ -7,8 +7,8 @@ tags:
   - "pdf"
   - "机器人"
   - "聊天"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.chatbase.co/"
 color: "#FFB65C"
 

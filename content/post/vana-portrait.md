@@ -8,8 +8,8 @@ tags:
   - "形象管理"
   - "生成器"
   - "肖像生成"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.futurepedia.io/tool/vana-portrait"
 color: "#008DE1"
 

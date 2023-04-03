@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "社交"
   - "虚拟形象"
-categories: application
-series: "创意灵感 媒体社交"
+categories: 创意灵感 媒体社交
+series: "application"
 website_link: "https://beta.character.ai/"
 color: "#666"
 

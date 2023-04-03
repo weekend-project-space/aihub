@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "社会文化"
   - "科学"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.wolframalpha.com/"
 color: "#FFB65C"
 

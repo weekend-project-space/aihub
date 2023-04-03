@@ -7,8 +7,8 @@ tags:
   - "GPT"
   - "数据"
   - "论文"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://jessezhang.org/"
 color: "#FFB65C"
 

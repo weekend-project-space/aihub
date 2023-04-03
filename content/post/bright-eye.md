@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "图像生成"
-categories: application
-series: "AI应用 图像处理"
+categories: AI应用 图像处理
+series: "application"
 website_link: "https://apps.apple.com/"
 color: "#008DE1"
 

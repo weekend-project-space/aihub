@@ -7,8 +7,8 @@ tags:
   - "学术"
   - "检索"
   - "研究"
-categories: application
-series: "学习教育 学术科研"
+categories: 学习教育 学术科研
+series: "application"
 website_link: "https://www.scholarcy.com/"
 color: "#FFB65C"
 

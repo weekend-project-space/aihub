@@ -7,8 +7,8 @@ tags:
   - "头像"
   - "生成器"
   - "艺术"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://theoasis.com/"
 color: "#008DE1"
 

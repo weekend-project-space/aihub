@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "旅行"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://getaiway.com/"
 color: "#666"
 

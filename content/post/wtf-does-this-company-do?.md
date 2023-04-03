@@ -4,8 +4,8 @@ description: "只需输入域即可解释登录页面。这个世界需要更好
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://wtfdoesthiscompanydo.vercel.app/"
 color: "#666"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "学习"
   - "探索"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://experiments.withgoogle.com/"
 color: "#666"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "信仰"
   - "圣经"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.gitagpt.in/"
 color: "#666"
 

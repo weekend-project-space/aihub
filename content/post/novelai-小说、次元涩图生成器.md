@@ -8,8 +8,8 @@ tags:
   - "AI绘画"
   - "二次元"
   - "动漫"
-categories: application
-series: "AI绘画 故事小说"
+categories: AI绘画 故事小说
+series: "application"
 website_link: "https://novelai.net/"
 color: "#008DE1"
 

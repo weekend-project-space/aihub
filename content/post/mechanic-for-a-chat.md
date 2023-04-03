@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://mechanic.fora.chat/"
 color: "#666"
 

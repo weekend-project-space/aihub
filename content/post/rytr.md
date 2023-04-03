@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI写作"
   - "电子邮件"
-categories: application
-series: "文本处理 电子邮件"
+categories: 文本处理 电子邮件
+series: "application"
 website_link: "https://rytr.me/"
 color: "#666"
 

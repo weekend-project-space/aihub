@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "seo"
   - "网站运营"
-categories: application
-series: "办公辅助 网站播客"
+categories: 办公辅助 网站播客
+series: "application"
 website_link: "https://www.growthbarseo.com/"
 color: "#666"
 

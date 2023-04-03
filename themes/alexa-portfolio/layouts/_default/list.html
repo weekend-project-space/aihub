@@ -7,7 +7,7 @@
 	</h2>
 	{{ $pages := union .RegularPages .Sections }}
 	{{ if (ne .Type "tags")}}
-	{{ $pages = where site.RegularPages "Params.categories" .Type}}
+	{{ $pages = where site.RegularPages "Params.series" .Type}}
 	{{end}}
 	<span class="section__subtitle work__subtitle h4 mb-1">{{ .Description }}</span>
 	<div class="c-cases px-3">
@@ -19,6 +19,7 @@
 			data-color="{{ .Params.color }}">
 			<div class="c-case__image" style="background-image: url('{{ .Params.thumb_image }}')">
 			</div>
+			<div class="c-case__category" style="background: {{ .Params.color }}">{{.Params.categories}}</div>
 			<div class="c-case__info" style="background: {{ .Params.color }}">
 				<div class="c-case__title">{{ .Title }}</div>
 				<div class="c-case__subtitle">{{ .Params.description }}</div>
@@ -29,6 +30,7 @@
 
 	</div>
 </section>
+
 <!-- Main Nav -->
 {{ if gt $paginator.TotalPages 1 }}
 <nav class="container paginator flex">

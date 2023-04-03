@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "3D"
-categories: application
-series: "3D创作 游戏辅助"
+categories: 3D创作 游戏辅助
+series: "application"
 website_link: "https://pixela.ai/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "产品"
   - "图像编辑"
   - "营销"
-categories: application
-series: "产品营销 图像处理"
+categories: 产品营销 图像处理
+series: "application"
 website_link: "https://app.pebblely.com/signup"
 color: "#008DE1"
 

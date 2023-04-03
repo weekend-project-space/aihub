@@ -7,8 +7,8 @@ tags:
   - "图像生成"
   - "文本转图像"
   - "设计"
-categories: application
-series: "图像处理 设计辅助"
+categories: 图像处理 设计辅助
+series: "application"
 website_link: "https://pinegraph.com/"
 color: "#008DE1"
 

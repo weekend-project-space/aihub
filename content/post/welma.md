@@ -7,8 +7,8 @@ tags:
   - "新闻"
   - "生活"
   - "论文"
-categories: application
-series: "学习教育 学术科研 生活日常"
+categories: 学习教育 学术科研 生活日常
+series: "application"
 website_link: "https://m64.in/"
 color: "#FFB65C"
 

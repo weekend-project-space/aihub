@@ -8,8 +8,8 @@ tags:
   - "商业理念"
   - "帖子"
   - "邮件"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://ultrabrainstomer.com/"
 color: "#666"
 

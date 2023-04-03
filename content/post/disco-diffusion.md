@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI模型"
   - "AI绘画"
-categories: model
-series: "训练模型"
+categories: 训练模型
+series: "model"
 website_link: "https://replicate.com/nightmareai/disco-diffusion"
 color: "#666"
 

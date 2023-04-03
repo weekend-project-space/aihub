@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "简历"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://aisocialbio.com/"
 color: "#666"
 

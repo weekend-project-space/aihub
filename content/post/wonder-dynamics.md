@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "视频剪辑"
   - "视频生成"
-categories: application
-series: "视频处理"
+categories: 视频处理
+series: "application"
 website_link: "https://www.wonderdynamics.com/"
 color: "#FF5867"
 

@@ -7,8 +7,8 @@ tags:
   - "对话"
   - "提问"
   - "聊天"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://poe.com/"
 color: "#FFB65C"
 

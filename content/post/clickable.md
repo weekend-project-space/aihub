@@ -7,8 +7,8 @@ tags:
   - "产品"
   - "广告"
   - "营销"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://www.clickable.so/"
 color: "#666"
 

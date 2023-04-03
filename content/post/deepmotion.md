@@ -8,8 +8,8 @@ tags:
   - "动画"
   - "游戏"
   - "虚拟现实"
-categories: application
-series: "3D创作"
+categories: 3D创作
+series: "application"
 website_link: "https://www.deepmotion.com/"
 color: "#666"
 

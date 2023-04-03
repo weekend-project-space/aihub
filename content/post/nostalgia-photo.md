@@ -7,8 +7,8 @@ tags:
   - "图像编辑"
   - "图片修复"
   - "老照片修复"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.nostalgia.photo/"
 color: "#008DE1"
 

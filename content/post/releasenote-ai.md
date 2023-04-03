@@ -7,8 +7,8 @@ tags:
   - "GPT"
   - "演讲"
   - "灵感"
-categories: application
-series: "创意灵感 办公辅助"
+categories: 创意灵感 办公辅助
+series: "application"
 website_link: "https://releasenote.ai/"
 color: "#666"
 

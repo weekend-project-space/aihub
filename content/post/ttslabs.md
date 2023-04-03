@@ -7,8 +7,8 @@ tags:
   - "tts"
   - "文本转语音"
   - "音频剪辑"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://ttslabs.ai/"
 color: "#00CC8E"
 

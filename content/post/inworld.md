@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "社交"
   - "虚拟世界"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.inworld.ai/"
 color: "#666"
 

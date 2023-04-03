@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "3D"
   - "元宇宙"
-categories: application
-series: "3D创作"
+categories: 3D创作
+series: "application"
 website_link: "https://fablesimulation.com/"
 color: "#666"
 

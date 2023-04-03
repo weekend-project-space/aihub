@@ -7,8 +7,8 @@ tags:
   - "剪辑"
   - "文本转视频"
   - "视频合成"
-categories: application
-series: "视频处理"
+categories: 视频处理
+series: "application"
 website_link: ""
 color: "#FF5867"
 

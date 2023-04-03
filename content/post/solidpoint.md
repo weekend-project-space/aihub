@@ -7,8 +7,8 @@ tags:
   - "youtobe"
   - "总结"
   - "摘要"
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://www.solidpoint.ai/"
 color: "#666"
 

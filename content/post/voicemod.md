@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "变声器"
   - "语音转换"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://www.voicemod.net/"
 color: "#00CC8E"
 

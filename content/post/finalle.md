@@ -8,8 +8,8 @@ tags:
   - "股票"
   - "财务"
   - "金融"
-categories: application
-series: "金融财务"
+categories: 金融财务
+series: "application"
 website_link: "https://finalle.ai/"
 color: "#666"
 

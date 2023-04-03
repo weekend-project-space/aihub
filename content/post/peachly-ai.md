@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "广告"
   - "营销"
-categories: application
-series: "产品营销"
+categories: 产品营销
+series: "application"
 website_link: "https://peachlyai.xyz/"
 color: "#666"
 

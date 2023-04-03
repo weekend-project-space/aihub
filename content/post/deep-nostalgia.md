@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "动画"
-categories: application
-series: "图像处理 趣味工具"
+categories: 图像处理 趣味工具
+series: "application"
 website_link: "https://www.myheritage.fr/"
 color: "#008DE1"
 

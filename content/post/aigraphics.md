@@ -7,8 +7,8 @@ tags:
   - "logo"
   - "图像生成"
   - "设计"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://aigraphics.io/"
 color: "#666"
 

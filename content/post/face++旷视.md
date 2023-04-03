@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI平台"
   - "视觉"
-categories: application
-series: "开放平台"
+categories: 开放平台
+series: "application"
 website_link: "https://www.faceplusplus.com.cn/"
 color: "#666"
 

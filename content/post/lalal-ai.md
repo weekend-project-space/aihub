@@ -7,8 +7,8 @@ tags:
   - "人声分离"
   - "音乐"
   - "音频编辑"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://www.lalal.ai/"
 color: "#00CC8E"
 

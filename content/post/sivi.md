@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "广告"
   - "设计"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://sivi.ai/"
 color: "#666"
 

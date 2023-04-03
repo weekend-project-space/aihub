@@ -9,8 +9,8 @@ tags:
   - "表格"
   - "视频剪辑"
   - "视频合成"
-categories: application
-series: "办公辅助 视频处理"
+categories: 办公辅助 视频处理
+series: "application"
 website_link: "https://www.goodlookup.com/"
 color: "#FF5867"
 

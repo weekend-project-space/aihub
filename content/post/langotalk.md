@@ -7,8 +7,8 @@ tags:
   - "学习"
   - "生活"
   - "语言"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.langotalk.org/"
 color: "#666"
 

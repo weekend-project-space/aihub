@@ -8,8 +8,8 @@ tags:
   - "移动应用"
   - "绘画"
   - "艺术"
-categories: application
-series: "AI绘画 移动应用"
+categories: AI绘画 移动应用
+series: "application"
 website_link: "https://www.wombo.art/"
 color: "#008DE1"
 

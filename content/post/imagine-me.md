@@ -7,8 +7,8 @@ tags:
   - "头像"
   - "生成器"
   - "艺术"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://imagineme.ai/"
 color: "#008DE1"
 

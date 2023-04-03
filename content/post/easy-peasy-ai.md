@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI写作"
   - "文案"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://easy-peasy.ai/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "DALL·E"
   - "Diffusion"
   - "PT-3"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://promptbase.com/"
 color: "#666"
 

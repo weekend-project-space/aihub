@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "电子邮件"
-categories: application
-series: "电子邮件"
+categories: 电子邮件
+series: "application"
 website_link: "https://politepost.net/"
 color: "#666"
 

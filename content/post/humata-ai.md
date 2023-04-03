@@ -7,8 +7,8 @@ tags:
   - "pdf"
   - "效率"
   - "文档分析"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://www.humata.ai/"
 color: "#666"
 

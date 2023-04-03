@@ -7,8 +7,8 @@ tags:
   - "图像处理"
   - "视频处理"
   - "音频处理"
-categories: application
-series: "图像处理 视频处理 音频处理"
+categories: 图像处理 视频处理 音频处理
+series: "application"
 website_link: "https://app.kailualabs.com/"
 color: "#00CC8E"
 

@@ -7,8 +7,8 @@ tags:
   - "文本转视频"
   - "视频编辑器"
   - "视频转文本"
-categories: application
-series: "视频处理 音频处理"
+categories: 视频处理 音频处理
+series: "application"
 website_link: "https://www.typestudio.co/"
 color: "#00CC8E"
 

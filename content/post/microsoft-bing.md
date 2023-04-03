@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "bing"
   - "搜索"
-categories: application
-series: "辅助搜索"
+categories: 辅助搜索
+series: "application"
 website_link: "https://cn.bing.com/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "社交"
   - "虚拟形象"
   - "虚拟现实"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.mygemsouls.com/"
 color: "#666"
 

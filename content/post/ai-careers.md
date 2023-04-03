@@ -8,8 +8,8 @@ tags:
   - "客户"
   - "求职"
   - "简历"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://aicareers.io/"
 color: "#666"
 

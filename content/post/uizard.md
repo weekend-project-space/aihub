@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "产品"
   - "网站模板"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://uizard.io/"
 color: "#666"
 

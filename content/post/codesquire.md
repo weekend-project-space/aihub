@@ -7,8 +7,8 @@ tags:
   - "代码"
   - "代码编写"
   - "建议"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://codesquire.ai/"
 color: "#292148"
 

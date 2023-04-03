@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI绘画"
   - "艺术"
-categories: application
-series: "AI绘画 移动应用"
+categories: AI绘画 移动应用
+series: "application"
 website_link: "https://aigc.wondershare.cn/"
 color: "#008DE1"
 

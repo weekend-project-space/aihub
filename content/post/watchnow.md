@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "娱乐"
   - "电影"
-categories: application
-series: "生活日常 趣味工具"
+categories: 生活日常 趣味工具
+series: "application"
 website_link: "https://www.watchnowai.com/"
 color: "#666"
 

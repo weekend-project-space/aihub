@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "时尚"
   - "设计"
-categories: application
-series: "时尚前沿"
+categories: 时尚前沿
+series: "application"
 website_link: "https://botika.io/"
 color: "#666"
 

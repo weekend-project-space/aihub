@@ -7,8 +7,8 @@ tags:
   - "sql"
   - "数据"
   - "数据查询"
-categories: application
-series: "数据SQL"
+categories: 数据SQL
+series: "application"
 website_link: "https://aihelperbot.com/"
 color: "#666"
 

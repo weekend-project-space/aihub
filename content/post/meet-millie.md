@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "兴趣爱好"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.meetmillie.app/"
 color: "#666"
 

@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "AI绘画"
-categories: application
-series: "AI绘画 电脑应用"
+categories: AI绘画 电脑应用
+series: "application"
 website_link: "https://www.nvidia.cn/studio/canvas/"
 color: "#008DE1"
 

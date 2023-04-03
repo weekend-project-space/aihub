@@ -7,8 +7,8 @@ tags:
   - "ppt"
   - "Twitter"
   - "网页"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://instasalesai.com/"
 color: "#666"
 

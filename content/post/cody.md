@@ -7,8 +7,8 @@ tags:
   - "GPT"
   - "培训"
   - "灵感"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://www.meetcody.ai/"
 color: "#666"
 

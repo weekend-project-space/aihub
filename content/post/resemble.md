@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "文本转语音"
   - "语音克隆"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://www.resemble.ai/"
 color: "#00CC8E"
 

@@ -7,8 +7,8 @@ tags:
   - "图像合成"
   - "生成器"
   - "艺术"
-categories: application
-series: "AI绘画 图像处理"
+categories: AI绘画 图像处理
+series: "application"
 website_link: "https://generated.photos/"
 color: "#008DE1"
 

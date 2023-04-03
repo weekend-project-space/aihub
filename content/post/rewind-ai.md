@@ -7,8 +7,8 @@ tags:
   - "mac"
   - "搜索"
   - "生活"
-categories: application
-series: "生活日常 辅助搜索"
+categories: 生活日常 辅助搜索
+series: "application"
 website_link: "https://www.rewind.ai/"
 color: "#666"
 

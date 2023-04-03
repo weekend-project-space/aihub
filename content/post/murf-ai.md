@@ -7,8 +7,8 @@ tags:
   - "播客"
   - "文本转语音"
   - "语音合成"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://murf.ai/"
 color: "#00CC8E"
 

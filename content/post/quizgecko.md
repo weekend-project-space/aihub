@@ -7,8 +7,8 @@ tags:
   - "提问"
   - "测试"
   - "生成器"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://quizgecko.com/"
 color: "#FFB65C"
 

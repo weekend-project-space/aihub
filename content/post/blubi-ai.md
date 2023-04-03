@@ -7,8 +7,8 @@ tags:
   - "机器人"
   - "社交"
   - "聊天"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://blubi.ai/"
 color: "#00CC8E"
 

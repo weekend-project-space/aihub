@@ -7,8 +7,8 @@ tags:
   - "生活"
   - "食品"
   - "食材"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://letsfoodie.com/ai-recipe-generator/"
 color: "#666"
 

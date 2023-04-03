@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "书籍"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.findyournextbook.ai/"
 color: "#666"
 

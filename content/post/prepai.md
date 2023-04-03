@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "提问"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.prepai.in/us/"
 color: "#FFB65C"
 

@@ -7,8 +7,8 @@ tags:
   - "excel"
   - "办公"
   - "表格"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://www.boloforms.com/"
 color: "#666"
 

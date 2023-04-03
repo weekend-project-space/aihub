@@ -7,8 +7,8 @@ tags:
   - "代码"
   - "代码加速"
   - "代码编辑器"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://www.codeium.com/"
 color: "#292148"
 

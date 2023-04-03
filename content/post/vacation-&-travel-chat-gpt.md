@@ -7,8 +7,8 @@ tags:
   - "旅行"
   - "灵感"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.usevacay.com/chatbot"
 color: "#666"
 

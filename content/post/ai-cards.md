@@ -7,8 +7,8 @@ tags:
   - "图像识别"
   - "生活"
   - "相机"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://designstripe.com/ai-cards/"
 color: "#008DE1"
 

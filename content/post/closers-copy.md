@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "seo"
   - "营销"
-categories: application
-series: "产品营销 网站播客"
+categories: 产品营销 网站播客
+series: "application"
 website_link: "https://www.closerscopy.com/"
 color: "#666"
 

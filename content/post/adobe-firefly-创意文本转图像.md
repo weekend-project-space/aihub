@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "Adobe"
   - "AI绘画"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://firefly.adobe.com/"
 color: "#008DE1"
 

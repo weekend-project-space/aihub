@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "电子邮件"
   - "营销"
-categories: application
-series: "产品营销"
+categories: 产品营销
+series: "application"
 website_link: "https://www.perspectiva.ai/0"
 color: "#666"
 

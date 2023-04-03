@@ -9,8 +9,8 @@ tags:
   - "知识图谱"
   - "聊天"
   - "聊天机器人"
-categories: application
-series: "辅助搜索"
+categories: 辅助搜索
+series: "application"
 website_link: ""
 color: "#666"
 

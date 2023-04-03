@@ -9,8 +9,8 @@ tags:
   - "生成器"
   - "绘画"
   - "虚拟形象"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://in3d.io/"
 color: "#008DE1"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "提问"
   - "搜索"
-categories: application
-series: "学习教育 辅助搜索"
+categories: 学习教育 辅助搜索
+series: "application"
 website_link: "https://www.teach-anything.com/"
 color: "#FFB65C"
 

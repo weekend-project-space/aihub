@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "总结"
   - "故事"
-categories: application
-series: "文本处理 智能总结"
+categories: 文本处理 智能总结
+series: "application"
 website_link: "https://penelope-ai.vercel.app/"
 color: "#666"
 

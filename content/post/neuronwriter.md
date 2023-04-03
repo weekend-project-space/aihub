@@ -7,8 +7,8 @@ tags:
   - "seo"
   - "网站"
   - "网站优化"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://www.neuronwriter.com/"
 color: "#666"
 

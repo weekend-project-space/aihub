@@ -8,8 +8,8 @@ tags:
   - "Facebook"
   - "youtobe"
   - "文案"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://localio.io/"
 color: "#666"
 

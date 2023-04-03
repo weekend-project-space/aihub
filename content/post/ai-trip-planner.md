@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "旅行"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961"
 color: "#666"
 

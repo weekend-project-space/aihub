@@ -8,8 +8,8 @@ tags:
   - "摘要"
   - "文案"
   - "营销"
-categories: application
-series: "产品营销 文本处理 智能总结"
+categories: 产品营销 文本处理 智能总结
+series: "application"
 website_link: "https://neuroflash.com/"
 color: "#666"
 

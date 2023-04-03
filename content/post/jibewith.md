@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "品牌"
   - "帖子"
-categories: application
-series: "产品营销 媒体社交"
+categories: 产品营销 媒体社交
+series: "application"
 website_link: "https://www.jibewith.com/"
 color: "#666"
 

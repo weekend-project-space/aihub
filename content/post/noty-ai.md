@@ -7,8 +7,8 @@ tags:
   - "会议"
   - "摘要"
   - "转录"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://noty.ai/"
 color: "#666"
 

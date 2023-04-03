@@ -1,0 +1,28 @@
+{{ define "main"}}
+
+<div class="container  section  ">
+    <div class="center">
+        {{ if eq .Data.Singular "category" }}
+        <h1>共有{{ len .Data.Terms }}个分类</h1>
+        {{ else if eq .Data.Singular "tag" }}
+        <h1>共有{{ len .Data.Terms }}个标签</h1>
+        {{ end }}
+    </div>
+    {{ range .Data.Terms.ByCount }}
+    <h2 class="c-tags">
+        <a href="{{ path.Join $.Data.Plural .Term | urlize | absLangURL }}" target="_blank" class="sub">{{ .Term }}
+            <small>({{
+                .Count }})</small></a>
+
+    </h2>
+    <ul class="c-tags mt-3">
+        {{ range .Pages }}
+        <li class="c-tags__item">
+            <a href="{{ .Permalink }}" title="{{ .Title }}" target="_blank" class="c-tags__label">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+</div>
+{{ end }}

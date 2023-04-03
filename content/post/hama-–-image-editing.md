@@ -7,8 +7,8 @@ tags:
   - "图像编辑"
   - "抠图"
   - "背景消除"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.hama.app/zh"
 color: "#008DE1"
 

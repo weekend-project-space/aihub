@@ -7,8 +7,8 @@ tags:
   - "Twitter"
   - "帖子"
   - "文案"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://postly.ai/"
 color: "#666"
 

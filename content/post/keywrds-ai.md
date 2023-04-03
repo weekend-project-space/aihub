@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "GPT"
   - "seo"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://keywrds.ai/"
 color: "#666"
 

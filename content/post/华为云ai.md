@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI平台"
   - "华为"
-categories: application
-series: "开放平台"
+categories: 开放平台
+series: "application"
 website_link: "https://developer.huaweicloud.com/"
 color: "#666"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "数据分析"
   - "营销"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://topicmojo.com/"
 color: "#666"
 

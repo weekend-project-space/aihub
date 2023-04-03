@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "医疗"
   - "护理"
-categories: application
-series: "医疗医学"
+categories: 医疗医学
+series: "application"
 website_link: "https://whisper.ai/"
 color: "#666"
 

@@ -8,8 +8,8 @@ tags:
   - "生成器"
   - "移动应用"
   - "艺术"
-categories: application
-series: "AI应用"
+categories: AI应用
+series: "application"
 website_link: "https://apps.apple.com/us/app/ai-pencil/id6444737491"
 color: "#666"
 

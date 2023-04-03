@@ -7,8 +7,8 @@ tags:
   - "头像"
   - "滤镜"
   - "社交"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://photoai.me/"
 color: "#008DE1"
 

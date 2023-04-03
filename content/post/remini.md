@@ -4,8 +4,8 @@ description: "Remini是一款出色的AI画质增强应用程序，凭借先进�
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "移动应用"
+categories: 移动应用
+series: "application"
 website_link: "https://jayclub.lanzoub.com/icT8d0neiqna"
 color: "#666"
 

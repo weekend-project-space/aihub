@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "2D"
   - "3D"
-categories: application
-series: "3D创作"
+categories: 3D创作
+series: "application"
 website_link: "https://www.kaedim3d.com/"
 color: "#666"
 

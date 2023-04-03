@@ -7,8 +7,8 @@ tags:
   - "TikTok"
   - "youtobe"
   - "视频剪辑"
-categories: application
-series: "媒体社交 视频处理"
+categories: 媒体社交 视频处理
+series: "application"
 website_link: "https://www.clippah.co/"
 color: "#FF5867"
 

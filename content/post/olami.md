@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI平台"
   - "软件开发"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://cn.olami.ai/"
 color: "#292148"
 

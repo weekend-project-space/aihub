@@ -7,8 +7,8 @@ tags:
   - "3D"
   - "照片"
   - "视觉"
-categories: application
-series: "3D创作"
+categories: 3D创作
+series: "application"
 website_link: "https://lumalabs.ai/"
 color: "#666"
 

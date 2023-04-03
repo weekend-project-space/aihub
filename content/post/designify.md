@@ -8,8 +8,8 @@ tags:
   - "背景消除"
   - "色彩增强"
   - "设计"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://www.designify.com/"
 color: "#666"
 

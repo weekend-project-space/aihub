@@ -8,8 +8,8 @@ tags:
   - "seo"
   - "搜索"
   - "网站运营"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://www.ctrify.com/"
 color: "#666"
 

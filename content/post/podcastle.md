@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "播客"
   - "音频剪辑"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://podcastle.ai/"
 color: "#00CC8E"
 

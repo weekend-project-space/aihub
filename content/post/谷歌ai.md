@@ -7,8 +7,8 @@ tags:
   - "AI平台"
   - "Google"
   - "谷歌"
-categories: application
-series: "开放平台"
+categories: 开放平台
+series: "application"
 website_link: "https://ai.google/tools/"
 color: "#666"
 

@@ -8,8 +8,8 @@ tags:
   - "文本转语音"
   - "格式转换"
   - "语音合成"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://play.ht/"
 color: "#00CC8E"
 

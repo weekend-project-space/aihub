@@ -7,8 +7,8 @@ tags:
   - "域名"
   - "网站"
   - "起名字"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://namy.ai/"
 color: "#666"
 

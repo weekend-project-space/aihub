@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "数据分析"
   - "视频处理"
-categories: application
-series: "视频处理"
+categories: 视频处理
+series: "application"
 website_link: "https://morise.ai/"
 color: "#FF5867"
 

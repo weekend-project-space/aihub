@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "生活"
   - "音乐"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.playlistai.app/"
 color: "#666"
 

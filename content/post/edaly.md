@@ -4,8 +4,8 @@ description: "人工智能驱动的教育技术 SaaS 使教育工作者和学习
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://edaly.co/"
 color: "#FFB65C"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "语音合成"
   - "音乐"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://mubert.com/"
 color: "#00CC8E"
 

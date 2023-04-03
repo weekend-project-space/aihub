@@ -9,8 +9,8 @@ tags:
   - "语音转视频"
   - "配乐"
   - "配音"
-categories: application
-series: "视频处理"
+categories: 视频处理
+series: "application"
 website_link: "https://www.wisecut.video/"
 color: "#FF5867"
 

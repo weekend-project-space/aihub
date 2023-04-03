@@ -7,8 +7,8 @@ tags:
   - "儿童故事"
   - "插画"
   - "故事"
-categories: application
-series: "故事小说"
+categories: 故事小说
+series: "application"
 website_link: "https://www.storiesforkids.ai/"
 color: "#666"
 

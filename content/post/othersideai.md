@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "AI写作"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://hyperwriteai.com/"
 color: "#666"
 

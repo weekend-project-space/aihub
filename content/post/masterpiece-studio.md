@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "3D"
-categories: application
-series: "3D创作"
+categories: 3D创作
+series: "application"
 website_link: "https://masterpiecestudio.com/"
 color: "#666"
 

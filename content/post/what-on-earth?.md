@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "故事"
-categories: application
-series: "故事小说"
+categories: 故事小说
+series: "application"
 website_link: "https://www.whatonearth.xyz/"
 color: "#666"
 

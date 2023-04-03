@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "IDE"
   - "终端组件"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://fig.io/user-manual/ai"
 color: "#292148"
 

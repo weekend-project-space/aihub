@@ -8,8 +8,8 @@ tags:
   - "生活"
   - "社区"
   - "聊天"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.sermongpt.com/"
 color: "#666"
 

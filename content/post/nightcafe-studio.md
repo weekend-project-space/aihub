@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "艺术"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://creator.nightcafe.studio/"
 color: "#008DE1"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "个性化"
   - "教育"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.to-teach.ai/"
 color: "#FFB65C"
 

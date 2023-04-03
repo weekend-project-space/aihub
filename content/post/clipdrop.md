@@ -4,8 +4,8 @@ description: "上传你的照片，该网站可以AI智能识别进行打光，�
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "图像处理 电脑应用 移动应用"
+categories: 图像处理 电脑应用 移动应用
+series: "application"
 website_link: "https://clipdrop.co/relight"
 color: "#008DE1"
 

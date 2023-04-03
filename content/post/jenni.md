@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "seo"
   - "博客"
-categories: application
-series: "办公辅助 网站播客"
+categories: 办公辅助 网站播客
+series: "application"
 website_link: "https://jenni.ai/"
 color: "#666"
 

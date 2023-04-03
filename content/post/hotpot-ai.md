@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "图像生成"
   - "搜索"
-categories: application
-series: "图像处理 辅助搜索"
+categories: 图像处理 辅助搜索
+series: "application"
 website_link: "https://hotpot.ai/"
 color: "#008DE1"
 

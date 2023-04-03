@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "视频"
   - "音频"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://addcontext.xyz/"
 color: "#666"
 

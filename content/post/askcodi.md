@@ -7,8 +7,8 @@ tags:
   - "代码注释"
   - "代码测试"
   - "语法"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://www.askcodi.com/"
 color: "#292148"
 

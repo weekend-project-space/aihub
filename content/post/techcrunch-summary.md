@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "GPT"
   - "TechCrunch"
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://www.techcrunchsummary.com/"
 color: "#666"
 

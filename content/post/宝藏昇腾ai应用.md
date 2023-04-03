@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI运用"
   - "应用实例"
-categories: application
-series: "电脑应用"
+categories: 电脑应用
+series: "application"
 website_link: "https://www.hiascend.com/developer/case-studies"
 color: "#666"
 

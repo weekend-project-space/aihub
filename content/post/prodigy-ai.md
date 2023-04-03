@@ -7,8 +7,8 @@ tags:
   - "建议"
   - "生活"
   - "职业规划"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://ai.prodi.gg/"
 color: "#666"
 

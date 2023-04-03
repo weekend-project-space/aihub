@@ -7,8 +7,8 @@ tags:
   - "教育"
   - "研究"
   - "课程"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.fast.ai/"
 color: "#FFB65C"
 

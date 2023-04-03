@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "办公"
   - "客户"
-categories: application
-series: "办公辅助"
+categories: 办公辅助
+series: "application"
 website_link: "https://forethought.ai/"
 color: "#666"
 

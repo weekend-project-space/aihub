@@ -8,8 +8,8 @@ tags:
   - "素材"
   - "艺术"
   - "设计"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://www.aiartapps.com/"
 color: "#008DE1"
 

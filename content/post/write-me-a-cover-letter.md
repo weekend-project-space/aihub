@@ -7,8 +7,8 @@ tags:
   - "求职"
   - "生活"
   - "简历"
-categories: application
-series: "办公辅助 生活日常"
+categories: 办公辅助 生活日常
+series: "application"
 website_link: "https://writemeacoverletter.com/"
 color: "#666"
 

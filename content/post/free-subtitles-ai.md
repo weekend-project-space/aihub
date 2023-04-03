@@ -7,8 +7,8 @@ tags:
   - "字幕"
   - "开源"
   - "翻译"
-categories: application
-series: "翻译辅助 视频处理"
+categories: 翻译辅助 视频处理
+series: "application"
 website_link: "https://freesubtitles.ai/"
 color: "#FF5867"
 

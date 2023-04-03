@@ -7,8 +7,8 @@ tags:
   - "youtobe"
   - "图像处理"
   - "帖子"
-categories: application
-series: "图像处理 媒体社交"
+categories: 图像处理 媒体社交
+series: "application"
 website_link: "https://thumbnail-ai.ybouane.com/"
 color: "#008DE1"
 

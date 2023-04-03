@@ -8,8 +8,8 @@ tags:
   - "代码"
   - "创客"
   - "黑客"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://lablab.ai/"
 color: "#292148"
 

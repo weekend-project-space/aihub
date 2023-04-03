@@ -7,8 +7,8 @@ tags:
   - "机器人"
   - "生活"
   - "聊天"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://circle.isyourshadowyou.com/Home.html"
 color: "#666"
 

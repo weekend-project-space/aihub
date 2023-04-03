@@ -7,8 +7,8 @@ tags:
   - "产品"
   - "营销"
   - "购物"
-categories: application
-series: "产品营销 生活日常"
+categories: 产品营销 生活日常
+series: "application"
 website_link: "https://www.getproduct.help/"
 color: "#666"
 

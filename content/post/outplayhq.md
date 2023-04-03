@@ -7,8 +7,8 @@ tags:
   - "电子邮件"
   - "营销"
   - "销售"
-categories: application
-series: "产品营销"
+categories: 产品营销
+series: "application"
 website_link: "https://outplayhq.com/"
 color: "#666"
 

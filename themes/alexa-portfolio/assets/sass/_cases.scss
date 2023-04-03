@@ -48,6 +48,19 @@
   top: 0;
 }
 
+.c-case__category {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+  color: #fff;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 0.6rem;
+  height: 2rem;
+  line-height: 2rem;
+}
+
+
 .c-case__info {
   background: var(--blue-500);
   bottom: 0;

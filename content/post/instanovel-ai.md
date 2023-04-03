@@ -7,8 +7,8 @@ tags:
   - "DALL·E"
   - "GPT"
   - "插画"
-categories: application
-series: "故事小说"
+categories: 故事小说
+series: "application"
 website_link: "https://instanovel.ai/"
 color: "#666"
 

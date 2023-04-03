@@ -7,8 +7,8 @@ tags:
   - "视频剪辑"
   - "视频生成"
   - "配音"
-categories: application
-series: "视频处理"
+categories: 视频处理
+series: "application"
 website_link: "https://replicate.com/"
 color: "#FF5867"
 

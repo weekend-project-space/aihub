@@ -9,8 +9,8 @@ tags:
   - "照片修复"
   - "老照片修复"
   - "黑白照片"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://palette.fm/"
 color: "#008DE1"
 

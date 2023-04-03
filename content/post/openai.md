@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI大模型"
   - "OpenAi"
-categories: model
-series: "训练模型"
+categories: 训练模型
+series: "model"
 website_link: "https://openai.com/"
 color: "#666"
 

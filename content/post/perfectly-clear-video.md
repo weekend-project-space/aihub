@@ -7,8 +7,8 @@ tags:
   - "图像增强"
   - "图像编辑"
   - "视频增强"
-categories: application
-series: "图像处理 视频处理"
+categories: 图像处理 视频处理
+series: "application"
 website_link: "https://eyeq.photos/automatic-ai-video-enhancement/"
 color: "#008DE1"
 

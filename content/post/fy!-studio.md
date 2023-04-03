@@ -8,8 +8,8 @@ tags:
   - "壁画"
   - "生成器"
   - "艺术"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://www.iamfy.co/studio?"
 color: "#008DE1"
 

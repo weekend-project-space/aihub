@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "电子邮件"
-categories: application
-series: "文本处理 电子邮件"
+categories: 文本处理 电子邮件
+series: "application"
 website_link: "https://www.hoppycopy.co/"
 color: "#666"
 

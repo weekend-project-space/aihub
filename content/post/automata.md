@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "Twitter"
   - "博客"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://byautomata.io/"
 color: "#666"
 

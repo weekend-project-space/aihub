@@ -9,8 +9,8 @@ tags:
   - "文本转语音"
   - "有声"
   - "生活"
-categories: application
-series: "文本处理 生活日常"
+categories: 文本处理 生活日常
+series: "application"
 website_link: "https://www.apple.com/in/apple-books/"
 color: "#666"
 

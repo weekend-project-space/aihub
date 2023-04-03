@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "cron"
   - "开源"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://cron-ai.vercel.app/"
 color: "#292148"
 

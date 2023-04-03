@@ -8,8 +8,8 @@ tags:
   - "关键词"
   - "广告"
   - "电商"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://copymonkey.ai/"
 color: "#666"
 

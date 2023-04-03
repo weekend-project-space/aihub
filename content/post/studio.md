@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "网站"
   - "设计"
-categories: application
-series: "网站播客 设计辅助"
+categories: 网站播客 设计辅助
+series: "application"
 website_link: "https://studio.design/"
 color: "#666"
 

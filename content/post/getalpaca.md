@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "ps"
   - "图像生成"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.getalpaca.io/"
 color: "#008DE1"
 

@@ -8,8 +8,8 @@ tags:
   - "Stable Diffusion"
   - "图像生成"
   - "文本转图像"
-categories: model
-series: "训练模型"
+categories: 训练模型
+series: "model"
 website_link: "https://stability.ai/"
 color: "#666"
 

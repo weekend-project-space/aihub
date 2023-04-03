@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "logo"
   - "生成器"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://makelogo.ai/"
 color: "#666"
 

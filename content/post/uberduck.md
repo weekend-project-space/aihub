@@ -7,8 +7,8 @@ tags:
   - "文本转语音"
   - "语音克隆"
   - "音乐"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://uberduck.ai/"
 color: "#00CC8E"
 

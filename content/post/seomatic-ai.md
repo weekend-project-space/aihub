@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "seo"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://seomatic.ai/"
 color: "#666"
 

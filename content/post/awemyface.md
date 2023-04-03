@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "护肤"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://apps.apple.com/app/apple-store/id1621101995"
 color: "#666"
 

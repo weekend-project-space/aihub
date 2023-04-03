@@ -7,8 +7,8 @@ tags:
   - "图像编辑"
   - "图像视觉"
   - "背景替换"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://magicstudio.com/"
 color: "#008DE1"
 

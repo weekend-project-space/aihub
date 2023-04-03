@@ -7,8 +7,8 @@ tags:
   - "pdf"
   - "文本转语音"
   - "电子书"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://blakify.com/"
 color: "#00CC8E"
 

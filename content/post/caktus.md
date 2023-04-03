@@ -7,8 +7,8 @@ tags:
   - "工作"
   - "生活"
   - "论文"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://www.caktus.ai/caktus_student"
 color: "#666"
 

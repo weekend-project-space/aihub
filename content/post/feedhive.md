@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "文章"
   - "自媒体"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://www.feedhive.com/"
 color: "#666"
 

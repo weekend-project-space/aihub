@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "图像编辑"
   - "文本转图像"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://paintbytext.chat/"
 color: "#008DE1"
 

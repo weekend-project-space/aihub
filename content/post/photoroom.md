@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "图像编辑"
   - "背景消除"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.photoroom.com/"
 color: "#008DE1"
 

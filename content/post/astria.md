@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "图像生成"
   - "图像编辑"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.astria.ai/"
 color: "#008DE1"
 

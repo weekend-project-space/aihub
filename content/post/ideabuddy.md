@@ -7,8 +7,8 @@ tags:
   - "创意"
   - "商业理念"
   - "灵感"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://ideabuddy.com/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "视频剪辑"
   - "视频合成"
   - "转录"
-categories: application
-series: "视频处理"
+categories: 视频处理
+series: "application"
 website_link: "https://www.peech-ai.com/"
 color: "#FF5867"
 

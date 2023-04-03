@@ -7,8 +7,8 @@ tags:
   - "搜索"
   - "搜索引擎"
   - "资源检索"
-categories: application
-series: "辅助搜索"
+categories: 辅助搜索
+series: "application"
 website_link: "https://www.zevi.ai/"
 color: "#666"
 

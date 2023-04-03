@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "博客"
   - "文本转语音"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://audioread.com/"
 color: "#00CC8E"
 

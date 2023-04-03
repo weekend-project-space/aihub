@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "儿童故事"
   - "故事"
-categories: application
-series: "故事小说"
+categories: 故事小说
+series: "application"
 website_link: "https://www.storywizard.ai/"
 color: "#666"
 

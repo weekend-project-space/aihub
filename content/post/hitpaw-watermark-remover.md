@@ -4,8 +4,8 @@ description: "HitPaw Watermark Remover——免费且强大的图片及视频去
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "电脑应用"
+categories: 电脑应用
+series: "application"
 website_link: "https://wwtk.lanzoub.com/iU29c0j0a10b"
 color: "#666"
 

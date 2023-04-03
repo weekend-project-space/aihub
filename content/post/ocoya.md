@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "文案"
   - "营销"
-categories: application
-series: "产品营销 媒体社交"
+categories: 产品营销 媒体社交
+series: "application"
 website_link: "https://www.ocoya.com/"
 color: "#666"
 

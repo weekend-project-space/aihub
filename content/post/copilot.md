@@ -7,8 +7,8 @@ tags:
   - "Github"
   - "函数"
   - "编辑器"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://github.com/features/copilo"
 color: "#292148"
 

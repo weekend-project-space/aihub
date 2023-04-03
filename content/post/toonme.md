@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "卡通化"
   - "图像处理"
-categories: application
-series: "图像处理 移动应用"
+categories: 图像处理 移动应用
+series: "application"
 website_link: "https://toonme.com/"
 color: "#008DE1"
 

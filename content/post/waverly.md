@@ -7,8 +7,8 @@ tags:
   - "专注"
   - "效率"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://mywaverly.com/"
 color: "#666"
 

@@ -8,8 +8,8 @@ tags:
   - "灵感"
   - "艺术"
   - "设计"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://instantart.io/"
 color: "#008DE1"
 

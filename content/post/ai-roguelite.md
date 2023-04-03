@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "游戏"
   - "生成器"
-categories: application
-series: "游戏辅助"
+categories: 游戏辅助
+series: "application"
 website_link: "https://store.steampowered.com/app/1889620/AI_Roguelite/"
 color: "#666"
 

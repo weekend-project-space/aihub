@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "数据分析"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://compar.ai/"
 color: "#666"
 

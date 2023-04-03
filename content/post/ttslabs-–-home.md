@@ -7,8 +7,8 @@ tags:
   - "播客"
   - "视频剪辑"
   - "音乐"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://www.beatoven.ai/"
 color: "#00CC8E"
 

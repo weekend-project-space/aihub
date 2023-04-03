@@ -2,14 +2,14 @@
 title: "DallE-2"
 description: "在过去的几年里，人工智能（AI）取得了极大的进展，而AI的新产品中有AI图像生成器。这是一种能够将输入的语句转换为图像的"
 author: "瑞东"
-date: "2023-03-30"
+date: "2023-03-31"
 tags:
   - "AI模型"
   - "DallE-2"
   - "图像生成"
   - "艺术"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://openai.com/dall-e-2/"
 color: "#008DE1"
 

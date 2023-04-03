@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "pdf"
   - "论文"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.paperbrain.study/"
 color: "#FFB65C"
 

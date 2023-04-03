@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "悼念"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://words.empathy.com/"
 color: "#666"
 

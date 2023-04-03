@@ -7,8 +7,8 @@ tags:
   - "小说"
   - "故事"
   - "游戏"
-categories: application
-series: "故事小说 游戏辅助"
+categories: 故事小说 游戏辅助
+series: "application"
 website_link: "https://endlessvn.io/"
 color: "#666"
 

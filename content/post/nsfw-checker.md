@@ -7,8 +7,8 @@ tags:
   - "NSFW"
   - "图像分析"
   - "图像检测"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://nsfw.m1guelpf.me/"
 color: "#008DE1"
 

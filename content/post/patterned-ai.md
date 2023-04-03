@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "图像生成"
   - "设计"
-categories: application
-series: "图像处理 设计辅助"
+categories: 图像处理 设计辅助
+series: "application"
 website_link: "https://www.patterned.ai/"
 color: "#008DE1"
 

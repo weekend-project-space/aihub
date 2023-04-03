@@ -7,8 +7,8 @@ tags:
   - "Twitter"
   - "帖子"
   - "视频处理"
-categories: application
-series: "媒体社交 视频处理"
+categories: 媒体社交 视频处理
+series: "application"
 website_link: "https://www.quickvid.ai/"
 color: "#FF5867"
 

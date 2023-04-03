@@ -7,8 +7,8 @@ tags:
   - "创造"
   - "艺术"
   - "角色"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://www.playarti.com/"
 color: "#008DE1"
 

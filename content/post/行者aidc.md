@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "人声分离"
   - "音乐"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://hi.xingzheai.cn/"
 color: "#00CC8E"
 

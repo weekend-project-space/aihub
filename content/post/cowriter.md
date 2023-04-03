@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "写作灵感"
   - "论文写作"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://cowriter.org/login"
 color: "#666"
 

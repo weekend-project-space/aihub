@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "代码提取"
   - "代码生成"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://www.useblackbox.io/"
 color: "#292148"
 

@@ -7,8 +7,8 @@ tags:
   - "插画"
   - "故事"
   - "漫画"
-categories: application
-series: "故事小说"
+categories: 故事小说
+series: "application"
 website_link: "https://neuralcanvas.io/"
 color: "#666"
 

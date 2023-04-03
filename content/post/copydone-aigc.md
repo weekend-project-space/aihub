@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "营销"
   - "销售"
-categories: application
-series: "产品营销"
+categories: 产品营销
+series: "application"
 website_link: "http://copyai.cn/"
 color: "#666"
 

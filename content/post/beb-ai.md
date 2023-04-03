@@ -8,8 +8,8 @@ tags:
   - "生成器"
   - "绘画"
   - "艺术"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://beb.ai/"
 color: "#008DE1"
 

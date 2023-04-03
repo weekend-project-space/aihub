@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "博客"
   - "语音转文本"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://voicepen.ai/"
 color: "#00CC8E"
 

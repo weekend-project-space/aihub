@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "音频处理"
   - "音频降噪"
-categories: application
-series: "音频处理"
+categories: 音频处理
+series: "application"
 website_link: "https://krisp.ai/"
 color: "#00CC8E"
 

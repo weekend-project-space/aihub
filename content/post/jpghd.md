@@ -7,8 +7,8 @@ tags:
   - "图片转动态"
   - "照片上色"
   - "老照片修复"
-categories: application
-series: "图像处理 电脑应用 移动应用"
+categories: 图像处理 电脑应用 移动应用
+series: "application"
 website_link: "https://jpghd.com/"
 color: "#008DE1"
 

@@ -7,8 +7,8 @@ tags:
   - "动漫"
   - "动画"
   - "图像生成"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://nijijourney.com/en/"
 color: "#008DE1"
 

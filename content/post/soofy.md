@@ -9,8 +9,8 @@ tags:
   - "技能"
   - "生活"
   - "语言"
-categories: application
-series: "学习教育 生活日常"
+categories: 学习教育 生活日常
+series: "application"
 website_link: "https://soofy.io/index/ref"
 color: "#FFB65C"
 

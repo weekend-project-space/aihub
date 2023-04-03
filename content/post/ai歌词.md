@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "歌词"
   - "音乐"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://theselyricsdonotexist.com/"
 color: "#666"
 

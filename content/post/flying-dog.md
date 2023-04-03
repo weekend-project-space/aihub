@@ -7,8 +7,8 @@ tags:
   - "ps"
   - "图像编辑"
   - "文本转图像"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.flyingdog.de/sd/AI-for-Photoshop.html"
 color: "#008DE1"
 

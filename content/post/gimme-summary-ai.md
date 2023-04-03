@@ -8,8 +8,8 @@ tags:
   - "总结"
   - "扩展"
   - "摘要"
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://gimmesummary.ai/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "AI写作"
   - "seo"
   - "博客"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://chrome.google.com/"
 color: "#666"
 

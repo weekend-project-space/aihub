@@ -7,8 +7,8 @@ tags:
   - "IDE"
   - "代码"
   - "开发"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://www.tabnine.com/"
 color: "#292148"
 

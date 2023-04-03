@@ -7,8 +7,8 @@ tags:
   - "产品"
   - "生活"
   - "营销"
-categories: application
-series: "产品营销 生活日常"
+categories: 产品营销 生活日常
+series: "application"
 website_link: "http://consumerai.deeprose.eu/"
 color: "#666"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "电商"
   - "销售"
-categories: application
-series: "电子商务"
+categories: 电子商务
+series: "application"
 website_link: "https://www.trymaverick.com/"
 color: "#666"
 

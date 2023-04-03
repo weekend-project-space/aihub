@@ -8,8 +8,8 @@ tags:
   - "广告"
   - "营销"
   - "语法"
-categories: application
-series: "产品营销 文本处理"
+categories: 产品营销 文本处理
+series: "application"
 website_link: "https://linguix.com/"
 color: "#666"
 

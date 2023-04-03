@@ -7,8 +7,8 @@ tags:
   - "名片"
   - "头像"
   - "形象管理"
-categories: application
-series: "办公辅助 图像处理"
+categories: 办公辅助 图像处理
+series: "application"
 website_link: "https://www.aragon.ai/"
 color: "#008DE1"
 

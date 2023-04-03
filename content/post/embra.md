@@ -8,8 +8,8 @@ tags:
   - "效率"
   - "灵感"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://embra.app/"
 color: "#666"
 

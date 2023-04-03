@@ -7,8 +7,8 @@ tags:
   - "logo"
   - "图标"
   - "生成器"
-categories: application
-series: "设计辅助"
+categories: 设计辅助
+series: "application"
 website_link: "https://looka.com/"
 color: "#666"
 

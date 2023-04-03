@@ -7,8 +7,8 @@ tags:
   - "AI工具"
   - "探索"
   - "趣味"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "https://boredhumans.com/"
 color: "#666"
 

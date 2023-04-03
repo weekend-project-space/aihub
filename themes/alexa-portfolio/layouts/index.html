@@ -32,22 +32,27 @@
     </div>
   </div>
   <div class="container mt-15">
-    <h2 class="flex">应用 <a href="/application">查看更多</a></h2>
+    <h2 class="flex">应用 <a href="/application" class="sub">查看更多</a></h2>
     <div class="c-cases px-3">
 
-      {{ $pages := where site.RegularPages "Params.categories" "application"}}
+      {{ $pages := where site.RegularPages "Params.series" "application"}}
       {{ $paginator := .Paginate $pages }}
       {{ range $index, $page := $paginator.Pages}}
       <a href="{{ .Permalink }}" class="c-case enter-fade-up enter-delay-1 background-gradient"
         data-color="{{ .Params.color }}">
         <div class="c-case__image" style="background-image: url('{{ .Params.thumb_image }}')">
         </div>
+        <div class="c-case__category" style="background: {{ .Params.color }}">{{.Params.categories}}</div>
         <div class="c-case__info" style="background: {{ .Params.color }}">
+
           <div class="c-case__title">{{ .Title }}</div>
           <div class="c-case__subtitle">{{ .Params.description }}</div>
         </div>
       </a>
       {{ end }}
+    </div>
+    <div class="center">
+      <a href="/application" class="sub">查看更多</a>
     </div>
   </div>
 </section>

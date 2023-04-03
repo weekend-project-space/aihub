@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "书籍"
   - "故事"
-categories: application
-series: "故事小说"
+categories: 故事小说
+series: "application"
 website_link: "https://sceneone.app/"
 color: "#666"
 

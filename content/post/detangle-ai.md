@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "法律"
-categories: application
-series: "法律法规"
+categories: 法律法规
+series: "application"
 website_link: "https://detangle.ai/"
 color: "#666"
 

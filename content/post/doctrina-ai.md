@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "GPT"
   - "远程"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.doctrina.ai/"
 color: "#FFB65C"
 

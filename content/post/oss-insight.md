@@ -7,8 +7,8 @@ tags:
   - "GPT"
   - "搜索"
   - "数据管理"
-categories: application
-series: "辅助搜索"
+categories: 辅助搜索
+series: "application"
 website_link: "https://ossinsight.io/explore/"
 color: "#666"
 

@@ -7,8 +7,8 @@ tags:
   - "Twich"
   - "视频剪辑"
   - "赌博"
-categories: application
-series: "媒体社交 视频处理"
+categories: 媒体社交 视频处理
+series: "application"
 website_link: "https://capturelab.gg/"
 color: "#FF5867"
 

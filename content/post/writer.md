@@ -2,11 +2,11 @@
 title: "Writer"
 description: "发现 Writer，适用于团队的 AI 写作平台。随时随地制作清晰、一致且符合品牌的内容。立即免费试用。"
 author: "瑞东"
-date: "2023-03-30"
+date: "2023-03-31"
 tags:
   - "AI写作"
-categories: application
-series: "文本处理"
+categories: 文本处理
+series: "application"
 website_link: "https://writer.com/"
 color: "#666"
 

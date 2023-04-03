@@ -8,8 +8,8 @@ tags:
   - "搜索，GPT"
   - "模型"
   - "资源检索"
-categories: application
-series: "辅助搜索"
+categories: 辅助搜索
+series: "application"
 website_link: "https://www.perplexity.ai/"
 color: "#666"
 

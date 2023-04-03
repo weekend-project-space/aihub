@@ -7,8 +7,8 @@ tags:
   - "会议"
   - "语音记录"
   - "转录"
-categories: application
-series: "媒体社交"
+categories: 媒体社交
+series: "application"
 website_link: "https://fireflies.ai/"
 color: "#666"
 

@@ -8,8 +8,8 @@ tags:
   - "图像编辑"
   - "背景替换"
   - "背景消除"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://mokker.ai/"
 color: "#008DE1"
 

@@ -7,8 +7,8 @@ tags:
   - "图像编辑"
   - "图片增强"
   - "降噪"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.topazlabs.com/topaz-photo-ai"
 color: "#008DE1"
 

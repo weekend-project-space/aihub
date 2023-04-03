@@ -7,8 +7,8 @@ tags:
   - "GPT"
   - "提问"
   - "生活"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://textgpt.net/"
 color: "#666"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "头像"
   - "形象管理"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.hairstyleai.com/"
 color: "#008DE1"
 

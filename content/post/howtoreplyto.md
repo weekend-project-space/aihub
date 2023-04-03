@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "生活"
-categories: application
-series: "媒体社交 生活日常"
+categories: 媒体社交 生活日常
+series: "application"
 website_link: "https://howtoreplyto.com/"
 color: "#666"
 

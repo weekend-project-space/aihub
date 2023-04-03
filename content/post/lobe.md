@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI训练"
   - "学习模型"
-categories: model
-series: "训练模型"
+categories: 训练模型
+series: "model"
 website_link: "https://www.lobe.ai/"
 color: "#666"
 

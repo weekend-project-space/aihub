@@ -9,8 +9,8 @@ tags:
   - "生成器"
   - "绘画"
   - "艺术"
-categories: application
-series: "AI绘画 图像处理"
+categories: AI绘画 图像处理
+series: "application"
 website_link: "https://playgroundai.com/"
 color: "#008DE1"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "logo"
   - "图像生成"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://gocharlie.ai/"
 color: "#008DE1"
 

@@ -7,8 +7,8 @@ tags:
   - "总结"
   - "摘要"
   - "生成器"
-categories: application
-series: "智能总结"
+categories: 智能总结
+series: "application"
 website_link: "https://hello.podium.page/"
 color: "#666"
 

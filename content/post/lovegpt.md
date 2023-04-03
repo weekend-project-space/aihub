@@ -7,8 +7,8 @@ tags:
   - "恋爱"
   - "生活"
   - "约会"
-categories: application
-series: "生活日常"
+categories: 生活日常
+series: "application"
 website_link: "https://lovegpt.co.in/"
 color: "#666"
 

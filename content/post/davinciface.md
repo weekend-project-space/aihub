@@ -8,8 +8,8 @@ tags:
   - "绘画"
   - "艺术"
   - "达芬奇"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://www.davinciface.com/"
 color: "#008DE1"
 

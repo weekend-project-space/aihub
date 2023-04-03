@@ -7,8 +7,8 @@ tags:
   - "头像"
   - "生成器"
   - "肖像生成"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://dreampic.ai/"
 color: "#008DE1"
 

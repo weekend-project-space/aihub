@@ -7,8 +7,8 @@ tags:
   - "创意"
   - "灵感"
   - "礼物"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://suggest.gift/"
 color: "#666"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "生活"
   - "简历"
-categories: application
-series: "办公辅助 生活日常"
+categories: 办公辅助 生活日常
+series: "application"
 website_link: "https://resumeworded.com/index.php"
 color: "#666"
 

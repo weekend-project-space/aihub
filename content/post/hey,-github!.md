@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "Github"
   - "代码生成"
-categories: application
-series: "代码开发"
+categories: 代码开发
+series: "application"
 website_link: "https://githubnext.com/projects/hey-github/"
 color: "#292148"
 

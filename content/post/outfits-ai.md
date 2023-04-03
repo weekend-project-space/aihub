@@ -7,8 +7,8 @@ tags:
   - "产品"
   - "图像编辑"
   - "服装"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://www.outfitsai.com/"
 color: "#008DE1"
 

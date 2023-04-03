@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "AI换脸"
-categories: application
-series: "图像处理"
+categories: 图像处理
+series: "application"
 website_link: "https://facehub.live/home/free-swap-image/"
 color: "#008DE1"
 

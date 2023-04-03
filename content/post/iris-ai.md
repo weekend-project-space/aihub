@@ -9,8 +9,8 @@ tags:
   - "摘要"
   - "系统化"
   - "过滤器"
-categories: application
-series: "智能总结 辅助搜索"
+categories: 智能总结 辅助搜索
+series: "application"
 website_link: "https://iris.ai/"
 color: "#666"
 

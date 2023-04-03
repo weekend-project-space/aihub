@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "头像"
   - "宠物"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://aipetavatar.com/"
 color: "#008DE1"
 

@@ -5,8 +5,8 @@ author: "瑞东"
 date: "2023-03-30"
 tags:
   - "Netflix"
-categories: application
-series: "趣味工具"
+categories: 趣味工具
+series: "application"
 website_link: "http://evenstranger.pw/"
 color: "#666"
 

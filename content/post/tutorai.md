@@ -4,8 +4,8 @@ description: "Tutor AI 是一个由 AI 驱动的学习平台。您可以输入�
 author: "瑞东"
 date: "2023-03-30"
 tags:
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.tutorai.me/"
 color: "#FFB65C"
 

@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "生成器，绘画"
   - "艺术"
-categories: application
-series: "AI绘画"
+categories: AI绘画
+series: "application"
 website_link: "https://civitai.com/"
 color: "#008DE1"
 

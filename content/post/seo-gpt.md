@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "AI写作"
   - "seo"
-categories: application
-series: "网站播客"
+categories: 网站播客
+series: "application"
 website_link: "https://seovendor.co/"
 color: "#666"
 

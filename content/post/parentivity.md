@@ -7,8 +7,8 @@ tags:
   - "GPT"
   - "个性化"
   - "聊天"
-categories: application
-series: "学习教育"
+categories: 学习教育
+series: "application"
 website_link: "https://www.smartivity.in/"
 color: "#FFB65C"
 

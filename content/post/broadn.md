@@ -6,8 +6,8 @@ date: "2023-03-30"
 tags:
   - "好奇心"
   - "灵感"
-categories: application
-series: "创意灵感"
+categories: 创意灵感
+series: "application"
 website_link: "https://www.broadn.io/"
 color: "#666"
 
