@@ -12,7 +12,12 @@
 	</style>
 	<div class=" c-content__center pb-1 pt-3">
 		<h2 class="section__title pb-3">{{ .Title }}</h2>
-		<span class="section__subtitle work__subtitle h4 mb-2">{{ .Params.job_type }}</span>
+		<span class="section__subtitle work__subtitle h4 mb-2">
+			{{ $href := print (absURL "categories/") (lower .Params.categories) }}
+			<a href="{{$href}}" class="sub">
+				{{ .Params.categories }}
+			</a>
+		</span>
 		<!-- Post Tags -->
 		{{ if .Params.tags }}
 		<ul class="c-tags">

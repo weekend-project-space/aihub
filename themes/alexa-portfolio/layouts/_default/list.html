@@ -5,9 +5,9 @@
 		{{ .Title }}
 
 	</h2>
-	{{ $pages := union .RegularPages .Sections }}
-	{{ if (ne .Type "tags")}}
-	{{ $pages = where site.RegularPages "Params.series" .Type}}
+	{{ $pages := where site.RegularPages "Params.series" .Type}}
+	{{ if and (ne .Type "application") (ne .Type "model")}}
+	{{ $pages = union .RegularPages .Sections }}
 	{{end}}
 	<span class="section__subtitle work__subtitle h4 mb-1">{{ .Description }}</span>
 	<div class="c-cases px-3">
