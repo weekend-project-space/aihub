@@ -1,6 +1,6 @@
 ---
-title: "提示"
-description: "善用提示，给你使用AI更好的助力"
+title: "AI 提示"
+description: "善用AI 提示，为你使用AI提供更好的助力"
 ---
 
 ### 使用 AI 创建您自己的提示
