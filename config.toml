@@ -25,13 +25,13 @@ series = "series"
 [params]
 # favicon = "/images/fav.png"
 home_title = "欢迎来到 Aihub"
-home_subtitle = "发现Ai相关的应用和模型"
+home_subtitle = "发现Ai相关的应用、提示和模型"
 home_description = "AIhub：连接你和人工智能的桥梁，探索未来的无限可能！"
 website = ""
 github = "https://github.com/weekend-project-space"
 twitter = "https://twitter.com/SUNXYZCHINA"
 home_btn = "提交更多"
-Description = "发现Ai相关的应用和模型,Aihub 连接你和人工智能的桥梁，探索未来的无限可能！"
+Description = "发现Ai相关的应用、提示和模型,Aihub 连接你和人工智能的桥梁，探索未来的无限可能！"
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
