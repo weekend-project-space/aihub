@@ -18,7 +18,9 @@
     <ul class="c-tags mt-3">
         {{ range .Pages }}
         <li class="c-tags__item">
-            <a href="{{ .Permalink }}" title="{{ .Title }}" target="_blank" class="c-tags__label">{{ .Title }}</a>
+            <a href="{{ .Permalink }}" title="{{ .Title }} - {{ .Description }}" target="_blank"
+                class="c-tags__label">{{
+                .Title }}</a>
         </li>
         {{ end }}
     </ul>
