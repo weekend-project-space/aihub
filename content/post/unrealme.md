@@ -1,6 +1,6 @@
 ---
 title: "Unrealme"
-description: "获取 AI 生成的图像"
+description: "获取 AI 生成的图像 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/d484046fda6308732789701a640b7c92.png"
 cover_image: "/img/d484046fda6308732789701a640b7c92.png"
 ---
 
-获取 AI 生成的图像
+获取 AI 生成的图像 

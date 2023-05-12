@@ -1,6 +1,6 @@
 ---
 title: "Sales Stack"
-description: "SalesStack使您能够训练自己的AI通过所有渠道与客户进行沟通。"
+description: "SalesStack使您能够训练自己的AI通过所有渠道与客户进行沟通。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/82b5e6ca4bfae19dee6be7f6673c1d58.png"
 cover_image: "/img/82b5e6ca4bfae19dee6be7f6673c1d58.png"
 ---
 
-SalesStack使您能够训练自己的AI通过所有渠道与客户进行沟通。
+SalesStack使您能够训练自己的AI通过所有渠道与客户进行沟通。 

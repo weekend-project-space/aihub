@@ -1,6 +1,6 @@
 ---
 title: "Arti.pics"
-description: "Arti.pics是AI驱动的头像制造商。它允许您上传一些自己的照片，并生成 200 多个不同风格的酷炫头像"
+description: "Arti.pics是AI驱动的头像制造商。它允许您上传一些自己的照片，并生成 200 多个不同风格的酷炫头像 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/2d437da664b8e3dc8da8b540f188745d.png"
 cover_image: "/img/2d437da664b8e3dc8da8b540f188745d.png"
 ---
 
-Arti.pics是AI驱动的头像制造商。它允许您上传一些自己的照片，并生成 200 多个不同风格的酷炫头像
+Arti.pics是AI驱动的头像制造商。它允许您上传一些自己的照片，并生成 200 多个不同风格的酷炫头像 

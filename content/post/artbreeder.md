@@ -1,6 +1,6 @@
 ---
 title: "Artbreeder"
-description: "以前所未有的方式打造人工智能艺术"
+description: "以前所未有的方式打造人工智能艺术 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/5975ccf40a5f359db8a7f8c07ffb0460.png"
 cover_image: "/img/5975ccf40a5f359db8a7f8c07ffb0460.png"
 ---
 
-以前所未有的方式打造人工智能艺术
+以前所未有的方式打造人工智能艺术 

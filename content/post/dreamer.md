@@ -1,6 +1,6 @@
 ---
 title: "Dreamer"
-description: "集成 概念到AI的稳定扩散 使用新的斜杠命令生成图像。"
+description: "集成 概念到AI的稳定扩散 使用新的斜杠命令生成图像。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/0c50fadbfe8c2ddc286b0f946ef14021.png"
 cover_image: "/img/0c50fadbfe8c2ddc286b0f946ef14021.png"
 ---
 
-集成 概念到AI的稳定扩散 使用新的斜杠命令生成图像。
+集成 概念到AI的稳定扩散 使用新的斜杠命令生成图像。 

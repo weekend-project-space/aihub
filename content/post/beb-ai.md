@@ -1,6 +1,6 @@
 ---
 title: "Beb.ai"
-description: "Beb.ai 允许您生成自己、动物或著名角色的头像。为您的品牌接收无穷无尽的创意内容"
+description: "Beb.ai 允许您生成自己、动物或著名角色的头像。为您的品牌接收无穷无尽的创意内容 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/314a0720ffeae2b0892dd707f03f8372.jpg"
 cover_image: "/img/314a0720ffeae2b0892dd707f03f8372.jpg"
 ---
 
-Beb.ai 允许您生成自己、动物或著名角色的头像。为您的品牌接收无穷无尽的创意内容
+Beb.ai 允许您生成自己、动物或著名角色的头像。为您的品牌接收无穷无尽的创意内容 

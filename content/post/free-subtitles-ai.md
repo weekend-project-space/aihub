@@ -1,6 +1,6 @@
 ---
 title: "Free Subtitles AI"
-description: "使用这个免费的开源应用程序为电影生成字幕！"
+description: "使用这个免费的开源应用程序为电影生成字幕！ "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/9866ac2d613da62ad81d3ff5997a8008.png"
 cover_image: "/img/9866ac2d613da62ad81d3ff5997a8008.png"
 ---
 
-使用这个免费的开源应用程序为电影生成字幕！
+使用这个免费的开源应用程序为电影生成字幕！ 

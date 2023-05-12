@@ -1,6 +1,6 @@
 ---
 title: "Descript"
-description: "创建语音的文本到语音转换模型。尝试现场演示。"
+description: "创建语音的文本到语音转换模型。尝试现场演示。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/1c3ce652093fc667e9ec46f3537c11b4.png"
 cover_image: "/img/1c3ce652093fc667e9ec46f3537c11b4.png"
 ---
 
-创建语音的文本到语音转换模型。尝试现场演示。
+创建语音的文本到语音转换模型。尝试现场演示。 

@@ -1,6 +1,6 @@
 ---
 title: "Mokker"
-description: "AI背景替换，从单个产品图像中即时替换专业产品照片。"
+description: "AI背景替换，从单个产品图像中即时替换专业产品照片。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/510945494afecc8cc10feb235bc3ce41.png"
 cover_image: "/img/510945494afecc8cc10feb235bc3ce41.png"
 ---
 
-AI背景替换，从单个产品图像中即时替换专业产品照片。
+AI背景替换，从单个产品图像中即时替换专业产品照片。 

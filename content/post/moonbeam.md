@@ -1,6 +1,6 @@
 ---
 title: "Moonbeam"
-description: "Moonbeam的AI将为您提供编写杀手级长篇内容所需的一切。在 2 分钟内将写作能力提高 10 倍。"
+description: "Moonbeam的AI将为您提供编写杀手级长篇内容所需的一切。在 2 分钟内将写作能力提高 10 倍。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/9ed9a807f8faa35e85c4a7442a6c05b3.png"
 cover_image: "/img/9ed9a807f8faa35e85c4a7442a6c05b3.png"
 ---
 
-Moonbeam的AI将为您提供编写杀手级长篇内容所需的一切。在 2 分钟内将写作能力提高 10 倍。
+Moonbeam的AI将为您提供编写杀手级长篇内容所需的一切。在 2 分钟内将写作能力提高 10 倍。 

@@ -1,6 +1,6 @@
 ---
 title: "viable"
-description: "在不影响质量的情况下自动执行定性数据分析。"
+description: "在不影响质量的情况下自动执行定性数据分析。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/91c9bf66b286085b7b9df469947f72be.png"
 cover_image: "/img/91c9bf66b286085b7b9df469947f72be.png"
 ---
 
-在不影响质量的情况下自动执行定性数据分析。
+在不影响质量的情况下自动执行定性数据分析。 

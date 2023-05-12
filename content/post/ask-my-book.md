@@ -15,4 +15,4 @@ thumb_image: "/img/130dcf11a1e9f8c83001991634f02dbf.png"
 cover_image: "/img/130dcf11a1e9f8c83001991634f02dbf.png"
 ---
 
-Ask My Book是Gumroad创始人Sahil Lavingia的一项人工智能实验，旨在使他的书更容易理解。您可以使用“问我的书”来提问，并从他的声音中获得答案。
+Ask My Book是Gumroad创始人Sahil Lavingia的一项人工智能实验，旨在使他的书更容易理解。您可以使用“问我的书”来提问，并从他的声音中获得答案。 

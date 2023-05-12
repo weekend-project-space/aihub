@@ -1,6 +1,6 @@
 ---
 title: "AI Time Machine"
-description: "上传自己的照片，创建令人难以置信的 AI 生成图像。与AI时间机器一起穿越历史"
+description: "上传自己的照片，创建令人难以置信的 AI 生成图像。与AI时间机器一起穿越历史 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/255f26bcc1c7f6bace358a17e703555b.png"
 cover_image: "/img/255f26bcc1c7f6bace358a17e703555b.png"
 ---
 
-上传自己的照片，创建令人难以置信的 AI 生成图像。与AI时间机器一起穿越历史
+上传自己的照片，创建令人难以置信的 AI 生成图像。与AI时间机器一起穿越历史 

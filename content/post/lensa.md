@@ -15,4 +15,4 @@ thumb_image: "/img/fb29206ac0be5d4801c39f5b0a36133b.png"
 cover_image: "/img/fb29206ac0be5d4801c39f5b0a36133b.png"
 ---
 
-GitFluence 是一个 AI 驱动的解决方案，可帮助您快速找到正确的命令。立即开始使用 Git 命令生成器并节省时间.
+GitFluence 是一个 AI 驱动的解决方案，可帮助您快速找到正确的命令。立即开始使用 Git 命令生成器并节省时间. 

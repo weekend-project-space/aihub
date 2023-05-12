@@ -1,6 +1,6 @@
 ---
 title: "fireflies.ai"
-description: "用于会议的 AI 助手 记录、转录和搜索语音对话。"
+description: "用于会议的 AI 助手 记录、转录和搜索语音对话。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/d70371e07d3bb69d9900ce791c740807.png"
 cover_image: "/img/d70371e07d3bb69d9900ce791c740807.png"
 ---
 
-用于会议的 AI 助手 记录、转录和搜索语音对话。
+用于会议的 AI 助手 记录、转录和搜索语音对话。 

@@ -16,4 +16,4 @@ thumb_image: "/img/b3d0ee352cff70d57fa6b0a5facdb954.png"
 cover_image: "/img/b3d0ee352cff70d57fa6b0a5facdb954.png"
 ---
 
-针对任何 Github 存储库的问答。输入一个 Github 存储库，我们会将其下载到服务器并针对代码创建嵌入。存储库必须是公共的、<200 个文件和 <100MB。
+针对任何 Github 存储库的问答。输入一个 Github 存储库，我们会将其下载到服务器并针对代码创建嵌入。存储库必须是公共的、<200 个文件和 <100MB。 

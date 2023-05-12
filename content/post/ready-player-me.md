@@ -1,6 +1,6 @@
 ---
 title: "Ready Player Me"
-description: "元宇宙的跨游戏头像平台。一个头像，许多世界可供探索"
+description: "元宇宙的跨游戏头像平台。一个头像，许多世界可供探索 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/1743a3877b2cc3e936a2f963c9614db5.png"
 cover_image: "/img/1743a3877b2cc3e936a2f963c9614db5.png"
 ---
 
-元宇宙的跨游戏头像平台。一个头像，许多世界可供探索
+元宇宙的跨游戏头像平台。一个头像，许多世界可供探索 

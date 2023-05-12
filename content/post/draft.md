@@ -16,4 +16,4 @@ thumb_image: "/img/e79957fc67c94d7950f517d7e4730640.png"
 cover_image: "/img/e79957fc67c94d7950f517d7e4730640.png"
 ---
 
-Draft.art是一个基于stable diffusion的AI智能绘图网站,在AI模型中只需要输入关键词,就能得到包含“创意”“设计思路”的图片
+Draft.art是一个基于stable diffusion的AI智能绘图网站,在AI模型中只需要输入关键词,就能得到包含“创意”“设计思路”的图片 

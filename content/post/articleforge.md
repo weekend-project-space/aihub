@@ -16,4 +16,4 @@ thumb_image: "/img/9e1d80e75697ef36206a1a19fb50fb79.png"
 cover_image: "/img/9e1d80e75697ef36206a1a19fb50fb79.png"
 ---
 
-从产品描述到整个博客文章，Article Forge 只需单击一下即可提供有关任何主题的独特、SEO 优化、高质量的内容。
+从产品描述到整个博客文章，Article Forge 只需单击一下即可提供有关任何主题的独特、SEO 优化、高质量的内容。 

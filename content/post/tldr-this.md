@@ -1,6 +1,6 @@
 ---
 title: "TLDR this"
-description: "TLDR 可帮助您将任何一段文本总结为简洁、易于消化的内容。将自己从信息过载中解放出来。"
+description: "TLDR 可帮助您将任何一段文本总结为简洁、易于消化的内容。将自己从信息过载中解放出来。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/d3f82b5c57f9cb47a41ece4acc0ef117.png"
 cover_image: "/img/d3f82b5c57f9cb47a41ece4acc0ef117.png"
 ---
 
-TLDR 可帮助您将任何一段文本总结为简洁、易于消化的内容。将自己从信息过载中解放出来。
+TLDR 可帮助您将任何一段文本总结为简洁、易于消化的内容。将自己从信息过载中解放出来。 

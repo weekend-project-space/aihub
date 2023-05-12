@@ -1,6 +1,6 @@
 ---
 title: "IQuit.ai"
-description: "为您生成辞职信。他们的网站上也有几个例子。"
+description: "为您生成辞职信。他们的网站上也有几个例子。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/690b8e8a2b61c7524f23fbecb183eeae.png"
 cover_image: "/img/690b8e8a2b61c7524f23fbecb183eeae.png"
 ---
 
-为您生成辞职信。他们的网站上也有几个例子。
+为您生成辞职信。他们的网站上也有几个例子。 

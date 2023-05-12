@@ -15,4 +15,4 @@ thumb_image: "/img/9b4db56a4242a271463cdfc010bbd64e.png"
 cover_image: "/img/9b4db56a4242a271463cdfc010bbd64e.png"
 ---
 
-在几秒钟内创建自己独特的闪光纹身。 停止花费数月时间在Pinterest上搜索您的下一个纹身。使用 BlackInk 的 AI 在几秒钟内生成自定义、独特的纹身，旨在为您创建类似纹身的设计。
+在几秒钟内创建自己独特的闪光纹身。 停止花费数月时间在Pinterest上搜索您的下一个纹身。使用 BlackInk 的 AI 在几秒钟内生成自定义、独特的纹身，旨在为您创建类似纹身的设计。 

@@ -1,6 +1,6 @@
 ---
 title: "CrowdView"
-description: "AI搜索引擎，可搜索各种论坛和社区，例如Reddit，HackerNews等。"
+description: "AI搜索引擎，可搜索各种论坛和社区，例如Reddit，HackerNews等。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/7d5cbc2d0b8b6565093ceb8a904976b2.png"
 cover_image: "/img/7d5cbc2d0b8b6565093ceb8a904976b2.png"
 ---
 
-AI搜索引擎，可搜索各种论坛和社区，例如Reddit，HackerNews等。
+AI搜索引擎，可搜索各种论坛和社区，例如Reddit，HackerNews等。 

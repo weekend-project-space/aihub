@@ -1,6 +1,6 @@
 ---
 title: "YOUS"
-description: "音频/视频会议、电话、聊天和消息，内置基于 AI 的翻译器。"
+description: "音频/视频会议、电话、聊天和消息，内置基于 AI 的翻译器。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/6bca0f40582e2297aba85f1f077b6168.png"
 cover_image: "/img/6bca0f40582e2297aba85f1f077b6168.png"
 ---
 
-音频/视频会议、电话、聊天和消息，内置基于 AI 的翻译器。
+音频/视频会议、电话、聊天和消息，内置基于 AI 的翻译器。 

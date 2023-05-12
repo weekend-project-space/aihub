@@ -15,4 +15,4 @@ thumb_image: "/img/ec3424c2a70be8f7b26f3889bb7d539a.png"
 cover_image: "/img/ec3424c2a70be8f7b26f3889bb7d539a.png"
 ---
 
-AI Experiments是Google对简单实验的展示，使任何人都可以更轻松地开始探索机器学习，通过图片，绘图，语言，音乐等。你可以在这里找到像TalkToBooks和TeachableMachine这样的工具。
+AI Experiments是Google对简单实验的展示，使任何人都可以更轻松地开始探索机器学习，通过图片，绘图，语言，音乐等。你可以在这里找到像TalkToBooks和TeachableMachine这样的工具。 

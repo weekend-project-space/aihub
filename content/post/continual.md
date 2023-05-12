@@ -16,4 +16,4 @@ thumb_image: "/img/f7890981d9f5f98ae8a5ed32a810edad.png"
 cover_image: "/img/f7890981d9f5f98ae8a5ed32a810edad.png"
 ---
 
-现代数据堆栈的运营 AI。 Continual 是用于现代数据堆栈的领先运营 AI 平台。构建无需复杂工程即可永不停止改进的预测模型。免费试用。
+现代数据堆栈的运营 AI。 Continual 是用于现代数据堆栈的领先运营 AI 平台。构建无需复杂工程即可永不停止改进的预测模型。免费试用。 

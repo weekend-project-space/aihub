@@ -17,4 +17,4 @@ thumb_image: "/img/9a35b9044b60a2fdf439f8ba9631b77e.png"
 cover_image: "/img/9a35b9044b60a2fdf439f8ba9631b77e.png"
 ---
 
-手动裁剪每个图像可能会很烦人。Pixelhunter利用惊人的Uploadcare智能API以更智能的方式自动识别对象和裁剪图片。
+手动裁剪每个图像可能会很烦人。Pixelhunter利用惊人的Uploadcare智能API以更智能的方式自动识别对象和裁剪图片。 

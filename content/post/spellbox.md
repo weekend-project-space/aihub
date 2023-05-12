@@ -1,6 +1,6 @@
 ---
 title: "Spellbox"
-description: "适合忙碌程序员的 AI 编码助手。在几秒钟内解决任何 AI 编程或工程问题"
+description: "适合忙碌程序员的 AI 编码助手。在几秒钟内解决任何 AI 编程或工程问题 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/416be9092029e1f429fae36c0b12ae70.png"
 cover_image: "/img/416be9092029e1f429fae36c0b12ae70.png"
 ---
 
-适合忙碌程序员的 AI 编码助手。在几秒钟内解决任何 AI 编程或工程问题
+适合忙碌程序员的 AI 编码助手。在几秒钟内解决任何 AI 编程或工程问题 

@@ -16,4 +16,4 @@ thumb_image: "/img/cce95111f23f593dcd7dc3ee5fa75f54.png"
 cover_image: "/img/cce95111f23f593dcd7dc3ee5fa75f54.png"
 ---
 
-只需几行 SQL 即可将 OpenAI 的 GPT-3 和拥抱面部模型的强大功能应用于数据库中的文本数据。使用简单的SQL命令自动分类和标记文本列，创建消息，汇总，翻译等等！
+只需几行 SQL 即可将 OpenAI 的 GPT-3 和拥抱面部模型的强大功能应用于数据库中的文本数据。使用简单的SQL命令自动分类和标记文本列，创建消息，汇总，翻译等等！ 

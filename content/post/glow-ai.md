@@ -1,6 +1,6 @@
 ---
 title: "Glow AI"
-description: "介绍Glow AI，您的个性化护肤解决方案。我们的网络应用程序会根据您的皮肤类型和预算生成定制的护肤程序。"
+description: "介绍Glow AI，您的个性化护肤解决方案。我们的网络应用程序会根据您的皮肤类型和预算生成定制的护肤程序。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/b53f1233678ffba2dd79fceb642f84c2.png"
 cover_image: "/img/b53f1233678ffba2dd79fceb642f84c2.png"
 ---
 
-介绍Glow AI，您的个性化护肤解决方案。我们的网络应用程序会根据您的皮肤类型和预算生成定制的护肤程序。
+介绍Glow AI，您的个性化护肤解决方案。我们的网络应用程序会根据您的皮肤类型和预算生成定制的护肤程序。 

@@ -1,6 +1,6 @@
 ---
 title: "Resemble"
-description: "具有语音克隆功能的AI语音生成器，用于文本到语音转换。"
+description: "具有语音克隆功能的AI语音生成器，用于文本到语音转换。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/894cf26de8c24351f20e251933be4d84.png"
 cover_image: "/img/894cf26de8c24351f20e251933be4d84.png"
 ---
 
-具有语音克隆功能的AI语音生成器，用于文本到语音转换。
+具有语音克隆功能的AI语音生成器，用于文本到语音转换。 

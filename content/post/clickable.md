@@ -1,6 +1,6 @@
 ---
 title: "Clickable"
-description: "适用于所有营销渠道的精美、品牌一致且转化率高的广告。无需设计经验。"
+description: "适用于所有营销渠道的精美、品牌一致且转化率高的广告。无需设计经验。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/bb4b5dce04fd563ace0e71d58cd1b1b5.png"
 cover_image: "/img/bb4b5dce04fd563ace0e71d58cd1b1b5.png"
 ---
 
-适用于所有营销渠道的精美、品牌一致且转化率高的广告。无需设计经验。
+适用于所有营销渠道的精美、品牌一致且转化率高的广告。无需设计经验。 

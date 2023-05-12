@@ -15,4 +15,4 @@ thumb_image: "/img/e09daaea17b0b43e8e9982fa3096d4cf.png"
 cover_image: "/img/e09daaea17b0b43e8e9982fa3096d4cf.png"
 ---
 
-CodeAssist（用于Intellij）是一个用于编程的AI助手/聊天机器人/副驾驶。它生成或更改代码，给定要进行的更改的说明。 安装后，您可以通过单击左下角的“CodeAssist”选项卡来打开它。 CodeAssist适用于所有流行的编程语言
+CodeAssist（用于Intellij）是一个用于编程的AI助手/聊天机器人/副驾驶。它生成或更改代码，给定要进行的更改的说明。 安装后，您可以通过单击左下角的“CodeAssist”选项卡来打开它。 CodeAssist适用于所有流行的编程语言 

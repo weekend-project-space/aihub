@@ -1,6 +1,6 @@
 ---
 title: "Summarize Tech"
-description: "AI 驱动的视频摘要。获取任何长 YouTube 视频的摘要，例如讲座、直播活动或政府会议。"
+description: "AI 驱动的视频摘要。获取任何长 YouTube 视频的摘要，例如讲座、直播活动或政府会议。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/ecf8cae9986f92f5b3a8813af426d1ef.png"
 cover_image: "/img/ecf8cae9986f92f5b3a8813af426d1ef.png"
 ---
 
-AI 驱动的视频摘要。获取任何长 YouTube 视频的摘要，例如讲座、直播活动或政府会议。
+AI 驱动的视频摘要。获取任何长 YouTube 视频的摘要，例如讲座、直播活动或政府会议。 

@@ -1,6 +1,6 @@
 ---
 title: "Canva Text to Image"
-description: "全新的技术，可生成您描述的任何图像。"
+description: "全新的技术，可生成您描述的任何图像。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/c44993a9246f0c9801d124b7b3c9583f.png"
 cover_image: "/img/c44993a9246f0c9801d124b7b3c9583f.png"
 ---
 
-全新的技术，可生成您描述的任何图像。
+全新的技术，可生成您描述的任何图像。 

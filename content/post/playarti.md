@@ -1,6 +1,6 @@
 ---
 title: "PlayArti"
-description: "只需单击三个按钮即可轻松创建艺术 – 选择角色，位置和活动。"
+description: "只需单击三个按钮即可轻松创建艺术 – 选择角色，位置和活动。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/2b597aaeabae609eea2d97951ddcf454.png"
 cover_image: "/img/2b597aaeabae609eea2d97951ddcf454.png"
 ---
 
-只需单击三个按钮即可轻松创建艺术 – 选择角色，位置和活动。
+只需单击三个按钮即可轻松创建艺术 – 选择角色，位置和活动。 

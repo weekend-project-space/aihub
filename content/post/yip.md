@@ -1,6 +1,6 @@
 ---
 title: "Yip"
-description: "输入您的笔记，Yip将从中自动生成问题。"
+description: "输入您的笔记，Yip将从中自动生成问题。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/94a12d64303bb0e05be1c67c9b91b98b.png"
 cover_image: "/img/94a12d64303bb0e05be1c67c9b91b98b.png"
 ---
 
-输入您的笔记，Yip将从中自动生成问题。
+输入您的笔记，Yip将从中自动生成问题。 

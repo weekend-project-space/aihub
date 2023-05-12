@@ -15,4 +15,4 @@ thumb_image: "/img/e2817ee8b3ca1bc120f0e3fdfec97edc.png"
 cover_image: "/img/e2817ee8b3ca1bc120f0e3fdfec97edc.png"
 ---
 
-一键在 100 秒内自动删除背景 5%。多亏了 remove.bg 的聪明 AI，您可以缩短编辑时间 – 并获得更多乐趣！
+一键在 100 秒内自动删除背景 5%。多亏了 remove.bg 的聪明 AI，您可以缩短编辑时间 – 并获得更多乐趣！ 

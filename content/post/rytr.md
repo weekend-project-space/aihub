@@ -1,6 +1,6 @@
 ---
 title: "Rytr"
-description: "Rytr 是一款 AI 写作助手，可帮助您在几秒钟内以一小部分成本创建高质量的内容！"
+description: "Rytr 是一款 AI 写作助手，可帮助您在几秒钟内以一小部分成本创建高质量的内容！ "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/668ec3db043b13d6a9076d9c35917efb.png"
 cover_image: "/img/668ec3db043b13d6a9076d9c35917efb.png"
 ---
 
-Rytr 是一款 AI 写作助手，可帮助您在几秒钟内以一小部分成本创建高质量的内容！
+Rytr 是一款 AI 写作助手，可帮助您在几秒钟内以一小部分成本创建高质量的内容！ 

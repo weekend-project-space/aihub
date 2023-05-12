@@ -1,6 +1,6 @@
 ---
 title: "Octane AI"
-description: "Octane AI 的多合一产品测验和零方数据平台是 #1 方式 Shopify 品牌通过个性化增加收入。"
+description: "Octane AI 的多合一产品测验和零方数据平台是 #1 方式 Shopify 品牌通过个性化增加收入。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/214bc636e5181ecff079702c10cdd69c.png"
 cover_image: "/img/214bc636e5181ecff079702c10cdd69c.png"
 ---
 
-Octane AI 的多合一产品测验和零方数据平台是 #1 方式 Shopify 品牌通过个性化增加收入。
+Octane AI 的多合一产品测验和零方数据平台是 #1 方式 Shopify 品牌通过个性化增加收入。 

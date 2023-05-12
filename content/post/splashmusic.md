@@ -1,6 +1,6 @@
 ---
 title: "Splashmusic"
-description: "将音乐创作的乐趣带给每个人"
+description: "将音乐创作的乐趣带给每个人 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/9a1bb5c05cacb1619382a8b7bf24e4fb.png"
 cover_image: "/img/9a1bb5c05cacb1619382a8b7bf24e4fb.png"
 ---
 
-将音乐创作的乐趣带给每个人
+将音乐创作的乐趣带给每个人 

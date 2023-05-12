@@ -1,6 +1,6 @@
 ---
 title: "Outplayhq"
-description: "Outplay 是一个多合一的多渠道销售参与平台，可帮助销售团队完成更多交易并显着增加收入。"
+description: "Outplay 是一个多合一的多渠道销售参与平台，可帮助销售团队完成更多交易并显着增加收入。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/2942fd8a86fa6196fbaef56c89f594a4.png"
 cover_image: "/img/2942fd8a86fa6196fbaef56c89f594a4.png"
 ---
 
-Outplay 是一个多合一的多渠道销售参与平台，可帮助销售团队完成更多交易并显着增加收入。
+Outplay 是一个多合一的多渠道销售参与平台，可帮助销售团队完成更多交易并显着增加收入。 

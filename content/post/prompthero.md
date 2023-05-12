@@ -1,6 +1,6 @@
 ---
 title: "PromptHero"
-description: "通过 DALL-E、稳定扩散、中途等 AI 模型搜索数百万张艺术图像……"
+description: "通过 DALL-E、稳定扩散、中途等 AI 模型搜索数百万张艺术图像…… "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/78d6b5d27df32b77382aa6ce88f98d48.png"
 cover_image: "/img/78d6b5d27df32b77382aa6ce88f98d48.png"
 ---
 
-通过 DALL-E、稳定扩散、中途等 AI 模型搜索数百万张艺术图像……
+通过 DALL-E、稳定扩散、中途等 AI 模型搜索数百万张艺术图像…… 

@@ -1,6 +1,6 @@
 ---
 title: "Getalpaca"
-description: "alpaca 是一个 Photoshop 插件，用于将 AI 图像生成能力与人类技能相结合。"
+description: "alpaca 是一个 Photoshop 插件，用于将 AI 图像生成能力与人类技能相结合。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/0c6db9f62771e420f5f691a0b9813f2e.png"
 cover_image: "/img/0c6db9f62771e420f5f691a0b9813f2e.png"
 ---
 
-alpaca 是一个 Photoshop 插件，用于将 AI 图像生成能力与人类技能相结合。
+alpaca 是一个 Photoshop 插件，用于将 AI 图像生成能力与人类技能相结合。 

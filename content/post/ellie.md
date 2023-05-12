@@ -1,6 +1,6 @@
 ---
 title: "Ellie"
-description: "艾莉从你的写作风格中学习，并像你写的一样制作回复。"
+description: "艾莉从你的写作风格中学习，并像你写的一样制作回复。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/7ba0148207e36d1a081c61a6bf05a2d3.png"
 cover_image: "/img/7ba0148207e36d1a081c61a6bf05a2d3.png"
 ---
 
-艾莉从你的写作风格中学习，并像你写的一样制作回复。
+艾莉从你的写作风格中学习，并像你写的一样制作回复。 

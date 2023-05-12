@@ -17,4 +17,4 @@ thumb_image: "/img/b6a4bdc0587ef3f3e40261538a2db4ca.png"
 cover_image: "/img/b6a4bdc0587ef3f3e40261538a2db4ca.png"
 ---
 
-CopyMonkey 在几秒钟内生成和优化亚马逊列表。人工智能有助于在您的亚马逊列表中放置所有重要关键字，让您在第一页上有机地排名。
+CopyMonkey 在几秒钟内生成和优化亚马逊列表。人工智能有助于在您的亚马逊列表中放置所有重要关键字，让您在第一页上有机地排名。 

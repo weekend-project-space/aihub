@@ -1,6 +1,6 @@
 ---
 title: "TheoAssist"
-description: "圣经伴侣， 从要点讲道， 圣经教学， 圣经问答， 祷告协助"
+description: "圣经伴侣， 从要点讲道， 圣经教学， 圣经问答， 祷告协助 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/9afa04aa26d0f5c56eb857bd629cad7d.png"
 cover_image: "/img/9afa04aa26d0f5c56eb857bd629cad7d.png"
 ---
 
-圣经伴侣， 从要点讲道， 圣经教学， 圣经问答， 祷告协助
+圣经伴侣， 从要点讲道， 圣经教学， 圣经问答， 祷告协助 

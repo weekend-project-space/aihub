@@ -1,6 +1,6 @@
 ---
 title: "Cool Gift Ideas"
-description: "送上完美的礼物！ 根据任何人的身份发现创意礼物创意。"
+description: "送上完美的礼物！ 根据任何人的身份发现创意礼物创意。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/8e9373078fabae5d88dd405b4db0dd22.png"
 cover_image: "/img/8e9373078fabae5d88dd405b4db0dd22.png"
 ---
 
-送上完美的礼物！ 根据任何人的身份发现创意礼物创意。
+送上完美的礼物！ 根据任何人的身份发现创意礼物创意。 

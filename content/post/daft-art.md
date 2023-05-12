@@ -1,6 +1,6 @@
 ---
 title: "Daft Art"
-description: "AI专辑封面生成器。 创建您梦寐以求的专辑封面"
+description: "AI专辑封面生成器。 创建您梦寐以求的专辑封面 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/80307c4ea593fcfdd161faf8ecc45dc4.png"
 cover_image: "/img/80307c4ea593fcfdd161faf8ecc45dc4.png"
 ---
 
-AI专辑封面生成器。 创建您梦寐以求的专辑封面
+AI专辑封面生成器。 创建您梦寐以求的专辑封面 

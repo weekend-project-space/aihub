@@ -1,6 +1,6 @@
 ---
 title: "Pix2Pix"
-description: "使用提示编辑视频。将指示 Pix2Pix 扩散应用于视频。"
+description: "使用提示编辑视频。将指示 Pix2Pix 扩散应用于视频。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/235636d38cf442d9299c573bff24ea34.png"
 cover_image: "/img/235636d38cf442d9299c573bff24ea34.png"
 ---
 
-使用提示编辑视频。将指示 Pix2Pix 扩散应用于视频。
+使用提示编辑视频。将指示 Pix2Pix 扩散应用于视频。 

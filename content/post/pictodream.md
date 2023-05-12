@@ -1,6 +1,6 @@
 ---
 title: "PictoDream"
-description: "使用 AI 生成自己的图像。 使用简单的文本描述将任何人置于任何样式或设置中"
+description: "使用 AI 生成自己的图像。 使用简单的文本描述将任何人置于任何样式或设置中 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/7ed692be303a16cd0ce65e8664c2cebd.png"
 cover_image: "/img/7ed692be303a16cd0ce65e8664c2cebd.png"
 ---
 
-使用 AI 生成自己的图像。 使用简单的文本描述将任何人置于任何样式或设置中
+使用 AI 生成自己的图像。 使用简单的文本描述将任何人置于任何样式或设置中 

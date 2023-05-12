@@ -16,4 +16,4 @@ thumb_image: "/img/d9646fd07a52677415260d9ade2cd84d.png"
 cover_image: "/img/d9646fd07a52677415260d9ade2cd84d.png"
 ---
 
-在CodiumAI，我们正在重新定义和自动化代码完整性，最初是通过构建一个开发工具，使忙碌的开发人员能够在他们的IDE中以交互方式生成有意义的测试套件。 CodiumAI目前支持Python，JS和TS支持即将推出
+在CodiumAI，我们正在重新定义和自动化代码完整性，最初是通过构建一个开发工具，使忙碌的开发人员能够在他们的IDE中以交互方式生成有意义的测试套件。 CodiumAI目前支持Python，JS和TS支持即将推出 

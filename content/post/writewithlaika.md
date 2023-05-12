@@ -1,6 +1,6 @@
 ---
 title: "Writewithlaika"
-description: "作家的神奇机器学习"
+description: "作家的神奇机器学习 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/63fde329564fdb26108ec8a8f7aa7ca8.png"
 cover_image: "/img/63fde329564fdb26108ec8a8f7aa7ca8.png"
 ---
 
-作家的神奇机器学习
+作家的神奇机器学习 

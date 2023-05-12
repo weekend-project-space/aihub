@@ -1,6 +1,6 @@
 ---
 title: "Soreal.AI Studio"
-description: "开始生成 AI 图像的最简单方法"
+description: "开始生成 AI 图像的最简单方法 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/7f20dae915a75d0e51ef3c576ff942d5.png"
 cover_image: "/img/7f20dae915a75d0e51ef3c576ff942d5.png"
 ---
 
-开始生成 AI 图像的最简单方法
+开始生成 AI 图像的最简单方法 

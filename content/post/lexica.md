@@ -1,6 +1,6 @@
 ---
 title: "Lexica"
-description: "Lexica"
+description: "Lexica "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/9db3e062e70b1629e02f1a108e797c1c.png"
 cover_image: "/img/9db3e062e70b1629e02f1a108e797c1c.png"
 ---
 
-Lexica
+Lexica 

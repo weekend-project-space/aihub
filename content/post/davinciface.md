@@ -1,6 +1,6 @@
 ---
 title: "DaVinciFace"
-description: "唯一能从你的照片创建达芬奇风格肖像的 AI。"
+description: "唯一能从你的照片创建达芬奇风格肖像的 AI。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/f5b9602e8ed1f07c280f90c4c47b604f.png"
 cover_image: "/img/f5b9602e8ed1f07c280f90c4c47b604f.png"
 ---
 
-唯一能从你的照片创建达芬奇风格肖像的 AI。
+唯一能从你的照片创建达芬奇风格肖像的 AI。 

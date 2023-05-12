@@ -1,6 +1,6 @@
 ---
 title: "Enterpix"
-description: "人工智能生成的图像搜索引擎。"
+description: "人工智能生成的图像搜索引擎。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/abefd361e361f6333981ef52250c4506.png"
 cover_image: "/img/abefd361e361f6333981ef52250c4506.png"
 ---
 
-人工智能生成的图像搜索引擎。
+人工智能生成的图像搜索引擎。 

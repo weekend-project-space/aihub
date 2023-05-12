@@ -16,4 +16,4 @@ thumb_image: "/img/37c3a72370332b7b906ccc8a80bbb9df.png"
 cover_image: "/img/37c3a72370332b7b906ccc8a80bbb9df.png"
 ---
 
-Mixpeek是对象存储（如S3）之上的智能层。使用 NLP，只需一个 GET /search API 调用即可“理解”您的非文本文件。您可以使用一行代码进行设置。
+Mixpeek是对象存储（如S3）之上的智能层。使用 NLP，只需一个 GET /search API 调用即可“理解”您的非文本文件。您可以使用一行代码进行设置。 

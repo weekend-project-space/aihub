@@ -1,6 +1,6 @@
 ---
 title: "Regie"
-description: "Regie 帮助销售、营销和成功团队使用 AI 更快地编写引人入胜的内容"
+description: "Regie 帮助销售、营销和成功团队使用 AI 更快地编写引人入胜的内容 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/1ffc9864090421546e56b767880d3367.png"
 cover_image: "/img/1ffc9864090421546e56b767880d3367.png"
 ---
 
-Regie 帮助销售、营销和成功团队使用 AI 更快地编写引人入胜的内容
+Regie 帮助销售、营销和成功团队使用 AI 更快地编写引人入胜的内容 

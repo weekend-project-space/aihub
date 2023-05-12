@@ -1,6 +1,6 @@
 ---
 title: "Opus"
-description: "将文本转换为电影和游戏。"
+description: "将文本转换为电影和游戏。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/246363dc687eb6d98fb13ba0719104f1.png"
 cover_image: "/img/246363dc687eb6d98fb13ba0719104f1.png"
 ---
 
-将文本转换为电影和游戏。
+将文本转换为电影和游戏。 

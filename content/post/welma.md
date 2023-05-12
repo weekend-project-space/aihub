@@ -16,4 +16,4 @@ thumb_image: "/img/b07027ac3cec989cefaf6aafa1323b30.png"
 cover_image: "/img/b07027ac3cec989cefaf6aafa1323b30.png"
 ---
 
-Welma使用AI来简化复杂的句子和段落，使它们易于理解。无论您是在阅读学术论文、新闻文章，还是小说，Welma 都将帮助您理解文本并保留信息。
+Welma使用AI来简化复杂的句子和段落，使它们易于理解。无论您是在阅读学术论文、新闻文章，还是小说，Welma 都将帮助您理解文本并保留信息。 

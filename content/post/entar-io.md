@@ -16,4 +16,4 @@ thumb_image: "/img/a7a3a063a8c9569afaecb51d5451ffae.png"
 cover_image: "/img/a7a3a063a8c9569afaecb51d5451ffae.png"
 ---
 
-通过 AI 生成的社交媒体回复（LinkedIn、Twitter、Facebook 等）节省 5 倍的时间。让恩塔里奥在几秒钟内为每个查询创建量身定制的评论。 自定义和编辑不同语调的评论。适用于所有主要的社交媒体平台。
+通过 AI 生成的社交媒体回复（LinkedIn、Twitter、Facebook 等）节省 5 倍的时间。让恩塔里奥在几秒钟内为每个查询创建量身定制的评论。 自定义和编辑不同语调的评论。适用于所有主要的社交媒体平台。 

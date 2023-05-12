@@ -1,6 +1,6 @@
 ---
 title: "Finalle"
-description: "快速分析海量实时数据流。 抢先了解市场驱动因素"
+description: "快速分析海量实时数据流。 抢先了解市场驱动因素 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/18e09804017179def55c14cda747cf2f.png"
 cover_image: "/img/18e09804017179def55c14cda747cf2f.png"
 ---
 
-快速分析海量实时数据流。 抢先了解市场驱动因素
+快速分析海量实时数据流。 抢先了解市场驱动因素 

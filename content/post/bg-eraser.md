@@ -1,6 +1,6 @@
 ---
 title: "Bg.Eraser"
-description: "强大的AI修复和图片清理技术。在几秒钟内删除不需要的对象和水印。"
+description: "强大的AI修复和图片清理技术。在几秒钟内删除不需要的对象和水印。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/e4ccab7d8fa07fa58b2cec0c54d37be3.png"
 cover_image: "/img/e4ccab7d8fa07fa58b2cec0c54d37be3.png"
 ---
 
-强大的AI修复和图片清理技术。在几秒钟内删除不需要的对象和水印。
+强大的AI修复和图片清理技术。在几秒钟内删除不需要的对象和水印。 

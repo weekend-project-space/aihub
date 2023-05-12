@@ -1,6 +1,6 @@
 ---
 title: "BotDistrikt"
-description: "BotDistrikt 是适合您业务的完整聊天机器人解决方案。"
+description: "BotDistrikt 是适合您业务的完整聊天机器人解决方案。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/afcd389bfc2a5708399c3b742f6237aa.png"
 cover_image: "/img/afcd389bfc2a5708399c3b742f6237aa.png"
 ---
 
-BotDistrikt 是适合您业务的完整聊天机器人解决方案。
+BotDistrikt 是适合您业务的完整聊天机器人解决方案。 

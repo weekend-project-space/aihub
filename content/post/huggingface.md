@@ -1,6 +1,6 @@
 ---
 title: "huggingface"
-description: "输入关键词，AI生成画作，仍然基于DALL-E 2"
+description: "输入关键词，AI生成画作，仍然基于DALL-E 2 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/baf6716d18ea01465ece27c3d088a2c4.png"
 cover_image: "/img/baf6716d18ea01465ece27c3d088a2c4.png"
 ---
 
-输入关键词，AI生成画作，仍然基于DALL-E 2
+输入关键词，AI生成画作，仍然基于DALL-E 2 

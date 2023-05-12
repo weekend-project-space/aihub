@@ -1,6 +1,6 @@
 ---
 title: "Ponzu"
-description: "用 AI 生成的纹理对 3D assets 进行处理"
+description: "用 AI 生成的纹理对 3D assets 进行处理 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/07ffb429a9aa661e250f957553b9be1a.png"
 cover_image: "/img/07ffb429a9aa661e250f957553b9be1a.png"
 ---
 
-用 AI 生成的纹理对 3D assets 进行处理
+用 AI 生成的纹理对 3D assets 进行处理 

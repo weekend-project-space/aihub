@@ -15,4 +15,4 @@ thumb_image: "/img/1638516f018c4d51770b1f751f775d9c.png"
 cover_image: "/img/1638516f018c4d51770b1f751f775d9c.png"
 ---
 
-Mindgrasp 立即创建准确的笔记并回答来自任何文档、PDF、YouTube 视频、缩放会议、网络研讨会录制、播客等的问题！
+Mindgrasp 立即创建准确的笔记并回答来自任何文档、PDF、YouTube 视频、缩放会议、网络研讨会录制、播客等的问题！ 

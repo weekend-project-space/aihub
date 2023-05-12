@@ -1,6 +1,6 @@
 ---
 title: "Mirageml"
-description: "快速生成 3D 设计。只需使用文本来描述您想要的内容，Mirage 的 AI 驱动平台即可生成 3D 网格和纹理"
+description: "快速生成 3D 设计。只需使用文本来描述您想要的内容，Mirage 的 AI 驱动平台即可生成 3D 网格和纹理 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/b0a6a46372226bb1966a964641914f27.png"
 cover_image: "/img/b0a6a46372226bb1966a964641914f27.png"
 ---
 
-快速生成 3D 设计。只需使用文本来描述您想要的内容，Mirage 的 AI 驱动平台即可生成 3D 网格和纹理
+快速生成 3D 设计。只需使用文本来描述您想要的内容，Mirage 的 AI 驱动平台即可生成 3D 网格和纹理 

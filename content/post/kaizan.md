@@ -1,6 +1,6 @@
 ---
 title: "Kaizan"
-description: "Kaizan是一个客户智能平台，供客户成功团队保留和增加收入"
+description: "Kaizan是一个客户智能平台，供客户成功团队保留和增加收入 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/392d93db2fb8f99cbfde60a28a941948.png"
 cover_image: "/img/392d93db2fb8f99cbfde60a28a941948.png"
 ---
 
-Kaizan是一个客户智能平台，供客户成功团队保留和增加收入
+Kaizan是一个客户智能平台，供客户成功团队保留和增加收入 

@@ -1,6 +1,6 @@
 ---
 title: "Stenography"
-description: "最后。自动记录。"
+description: "最后。自动记录。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/154223c509bab1b70a838746a1990955.png"
 cover_image: "/img/154223c509bab1b70a838746a1990955.png"
 ---
 
-最后。自动记录。
+最后。自动记录。 

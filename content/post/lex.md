@@ -1,6 +1,6 @@
 ---
 title: "Lex"
-description: "解锁您的最佳写作"
+description: "解锁您的最佳写作 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/cd50e3ed40bd5d06512c7b6bb6e5872d.png"
 cover_image: "/img/cd50e3ed40bd5d06512c7b6bb6e5872d.png"
 ---
 
-解锁您的最佳写作
+解锁您的最佳写作 

@@ -1,6 +1,6 @@
 ---
 title: "Dreamsands"
-description: "Dreamsands 是一个创意市场，您可以在其中许可、收集和分享您感兴趣的 AI 生成艺术品的图像。"
+description: "Dreamsands 是一个创意市场，您可以在其中许可、收集和分享您感兴趣的 AI 生成艺术品的图像。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/8b03ad099ef68a009449a0afa0c292d0.png"
 cover_image: "/img/8b03ad099ef68a009449a0afa0c292d0.png"
 ---
 
-Dreamsands 是一个创意市场，您可以在其中许可、收集和分享您感兴趣的 AI 生成艺术品的图像。
+Dreamsands 是一个创意市场，您可以在其中许可、收集和分享您感兴趣的 AI 生成艺术品的图像。 

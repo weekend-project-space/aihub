@@ -15,4 +15,4 @@ thumb_image: "/img/02c7cf6804b3e999217439ccdec374df.png"
 cover_image: "/img/02c7cf6804b3e999217439ccdec374df.png"
 ---
 
-Colossyan Creator使视频创作变得简单而无压力。发现我们的 AI 视频创作者与真正的演员。在不到 5 分钟的时间内创建视频。从这里免费开始。
+Colossyan Creator使视频创作变得简单而无压力。发现我们的 AI 视频创作者与真正的演员。在不到 5 分钟的时间内创建视频。从这里免费开始。 

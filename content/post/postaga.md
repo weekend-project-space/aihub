@@ -1,6 +1,6 @@
 ---
 title: "Postaga"
-description: "发送冷电子邮件比以往任何时候都更容易。"
+description: "发送冷电子邮件比以往任何时候都更容易。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/0f288cb2200cb68332848cf887d0050f.png"
 cover_image: "/img/0f288cb2200cb68332848cf887d0050f.png"
 ---
 
-发送冷电子邮件比以往任何时候都更容易。
+发送冷电子邮件比以往任何时候都更容易。 

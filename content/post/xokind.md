@@ -16,4 +16,4 @@ thumb_image: "/img/cf1cdd7aa4f61bd21d2b876675170f30.png"
 cover_image: "/img/cf1cdd7aa4f61bd21d2b876675170f30.png"
 ---
 
-强大的 AI 代理，用于客户支持、旅行和销售。XOKind为产品和数据团队提供了一个AI平台，通过简单的API端点利用机器学习和大型AI模型。
+强大的 AI 代理，用于客户支持、旅行和销售。XOKind为产品和数据团队提供了一个AI平台，通过简单的API端点利用机器学习和大型AI模型。 

@@ -1,6 +1,6 @@
 ---
 title: "What on earth?"
-description: "一种学习新事物的有趣方式。只需一个单词的提示即可生成故事。"
+description: "一种学习新事物的有趣方式。只需一个单词的提示即可生成故事。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/35cf91880cacb97fe39c165b594503d5.png"
 cover_image: "/img/35cf91880cacb97fe39c165b594503d5.png"
 ---
 
-一种学习新事物的有趣方式。只需一个单词的提示即可生成故事。
+一种学习新事物的有趣方式。只需一个单词的提示即可生成故事。 

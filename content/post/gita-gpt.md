@@ -15,4 +15,4 @@ thumb_image: "/img/aae723eb79cced88db7cfbd971e189dc.png"
 cover_image: "/img/aae723eb79cced88db7cfbd971e189dc.png"
 ---
 
-GitaGPT是一个使用人工智能（AI）帮助人们从古印度经文《博伽梵歌》中获得指导的网站。它提供超过71，108 + updesh（精神指导），可以帮助所有年龄和背景的人。
+GitaGPT是一个使用人工智能（AI）帮助人们从古印度经文《博伽梵歌》中获得指导的网站。它提供超过71，108 + updesh（精神指导），可以帮助所有年龄和背景的人。 

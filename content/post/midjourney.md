@@ -1,6 +1,6 @@
 ---
 title: "Midjourney"
-description: "基于diffusion的AI艺术生成器。生成图片不局限于二次元人物，能够生成照片级精细的图"
+description: "基于diffusion的AI艺术生成器。生成图片不局限于二次元人物，能够生成照片级精细的图 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/5110d1fe85a87735f3232ce6a7ed1fdd.png"
 cover_image: "/img/5110d1fe85a87735f3232ce6a7ed1fdd.png"
 ---
 
-基于diffusion的AI艺术生成器。生成图片不局限于二次元人物，能够生成照片级精细的图
+基于diffusion的AI艺术生成器。生成图片不局限于二次元人物，能够生成照片级精细的图 

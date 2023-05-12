@@ -15,4 +15,4 @@ thumb_image: "/img/0fce7dd8748fb711fb48829270ab4bc9.png"
 cover_image: "/img/0fce7dd8748fb711fb48829270ab4bc9.png"
 ---
 
-Pickaxe 允许任何人在几分钟内创建由 AI 提供支持的工具，无需代码。您可以发现镐社区制作的 AI 工具，制作自己的 AI 工具并与社区共享和协作。
+Pickaxe 允许任何人在几分钟内创建由 AI 提供支持的工具，无需代码。您可以发现镐社区制作的 AI 工具，制作自己的 AI 工具并与社区共享和协作。 

@@ -17,4 +17,4 @@ thumb_image: "/img/ce2c35c630b0929bf15fc22a93374efe.png"
 cover_image: "/img/ce2c35c630b0929bf15fc22a93374efe.png"
 ---
 
-专为数字机构和小型企业设计的AI文案工具。它可以快速轻松地为商业网站，Google My Business，Yelp，Facebook LinkedIn，Youtube等创建销售驱动内容
+专为数字机构和小型企业设计的AI文案工具。它可以快速轻松地为商业网站，Google My Business，Yelp，Facebook LinkedIn，Youtube等创建销售驱动内容 

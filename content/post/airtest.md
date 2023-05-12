@@ -1,6 +1,6 @@
 ---
 title: "Airtest"
-description: "使用 AI 生成单元测试。支持多种语言，包括Typescript和Python。还支持各种测试框架，如摩卡和Jest。"
+description: "使用 AI 生成单元测试。支持多种语言，包括Typescript和Python。还支持各种测试框架，如摩卡和Jest。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/1da9066694367dee6a3439ee4c5c4d97.png"
 cover_image: "/img/1da9066694367dee6a3439ee4c5c4d97.png"
 ---
 
-使用 AI 生成单元测试。支持多种语言，包括Typescript和Python。还支持各种测试框架，如摩卡和Jest。
+使用 AI 生成单元测试。支持多种语言，包括Typescript和Python。还支持各种测试框架，如摩卡和Jest。 

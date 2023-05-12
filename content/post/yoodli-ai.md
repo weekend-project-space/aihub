@@ -1,6 +1,6 @@
 ---
 title: "Yoodli AI"
-description: "通过来自他们的 AI 语音教练的个性化和私人反馈来提高您的沟通技巧。"
+description: "通过来自他们的 AI 语音教练的个性化和私人反馈来提高您的沟通技巧。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/d424a1094c3494eb41f1a1cc7391a39a.png"
 cover_image: "/img/d424a1094c3494eb41f1a1cc7391a39a.png"
 ---
 
-通过来自他们的 AI 语音教练的个性化和私人反馈来提高您的沟通技巧。
+通过来自他们的 AI 语音教练的个性化和私人反馈来提高您的沟通技巧。 

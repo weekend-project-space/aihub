@@ -15,4 +15,4 @@ thumb_image: "/img/a5e039bf6178f3f46e7c8b1a251d27a3.png"
 cover_image: "/img/a5e039bf6178f3f46e7c8b1a251d27a3.png"
 ---
 
-Kodezi是AI开发人员工具助手，可以自动更正您的代码。使用 AI 立即改进您的代码，使用 Kodezi 删除您的错误
+Kodezi是AI开发人员工具助手，可以自动更正您的代码。使用 AI 立即改进您的代码，使用 Kodezi 删除您的错误 

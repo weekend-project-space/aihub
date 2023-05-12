@@ -14,4 +14,4 @@ thumb_image: "/img/65ab07f2e0b5f49a20a12e75ab5a3085.png"
 cover_image: "/img/65ab07f2e0b5f49a20a12e75ab5a3085.png"
 ---
 
-Promethean AI 是世界上第一个与艺术家合作的人工智能，协助他们构建虚拟世界，并通过提出想法来帮助创造性地解决问题
+Promethean AI 是世界上第一个与艺术家合作的人工智能，协助他们构建虚拟世界，并通过提出想法来帮助创造性地解决问题 

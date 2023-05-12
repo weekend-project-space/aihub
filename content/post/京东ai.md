@@ -2,7 +2,7 @@
 title: "京东AI"
 description: "京东AI开放平台 JD AI NeuHub是京东人工智能AI开放平台，提供全球领先的及声学、语义、对话、机器学习、知识表"
 author: "瑞东"
-date: "2023-03-31"
+date: "2023-03-30"
 tags:
   - "AI平台"
   - "京东"

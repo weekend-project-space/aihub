@@ -15,4 +15,4 @@ thumb_image: "/img/1cd4010ac10ddd286faf93f603835231.png"
 cover_image: "/img/1cd4010ac10ddd286faf93f603835231.png"
 ---
 
-Create playlists from AI prompts, images, videos, and your most-listened-to music.
+Create playlists from AI prompts, images, videos, and your most-listened-to music. 

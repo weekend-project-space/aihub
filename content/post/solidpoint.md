@@ -1,6 +1,6 @@
 ---
 title: "SolidPoint"
-description: "粘贴 Youtube 视频网址并获取其摘要。您还可以在网站上查看趋势摘要。"
+description: "粘贴 Youtube 视频网址并获取其摘要。您还可以在网站上查看趋势摘要。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/327e9a783c3b843bd65b26929d5b8745.png"
 cover_image: "/img/327e9a783c3b843bd65b26929d5b8745.png"
 ---
 
-粘贴 Youtube 视频网址并获取其摘要。您还可以在网站上查看趋势摘要。
+粘贴 Youtube 视频网址并获取其摘要。您还可以在网站上查看趋势摘要。 

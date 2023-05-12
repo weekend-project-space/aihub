@@ -1,6 +1,6 @@
 ---
 title: "Audioread"
-description: "将您的阅读内容变成播客。在您的播客应用程序中收听任何文章、PDF、电子邮件等。"
+description: "将您的阅读内容变成播客。在您的播客应用程序中收听任何文章、PDF、电子邮件等。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/a63b6ef62af9239d6e1f0505f5d3ce9f.png"
 cover_image: "/img/a63b6ef62af9239d6e1f0505f5d3ce9f.png"
 ---
 
-将您的阅读内容变成播客。在您的播客应用程序中收听任何文章、PDF、电子邮件等。
+将您的阅读内容变成播客。在您的播客应用程序中收听任何文章、PDF、电子邮件等。 

@@ -1,6 +1,6 @@
 ---
 title: "Avatar AI"
-description: "创建您自己的 AI 生成的头像"
+description: "创建您自己的 AI 生成的头像 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/97646e6da7deb5116546bd3f1abd7db5.jpg"
 cover_image: "/img/97646e6da7deb5116546bd3f1abd7db5.jpg"
 ---
 
-创建您自己的 AI 生成的头像
+创建您自己的 AI 生成的头像 

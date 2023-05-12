@@ -1,6 +1,6 @@
 ---
 title: "Hama – Image Editing"
-description: "在一秒钟内从图像中删除人物或物体。"
+description: "在一秒钟内从图像中删除人物或物体。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/4bc6a05cb6796b31d0f90576fb8d2d1e.png"
 cover_image: "/img/4bc6a05cb6796b31d0f90576fb8d2d1e.png"
 ---
 
-在一秒钟内从图像中删除人物或物体。
+在一秒钟内从图像中删除人物或物体。 

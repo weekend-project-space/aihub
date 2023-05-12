@@ -1,6 +1,6 @@
 ---
 title: "Kafkai"
-description: "Kafkai是一种机器学习算法，可以从头开始写文章。面向营销人员和 SEO 的尖端技术。"
+description: "Kafkai是一种机器学习算法，可以从头开始写文章。面向营销人员和 SEO 的尖端技术。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/5034cf12d9253ca993bf43226d916197.png"
 cover_image: "/img/5034cf12d9253ca993bf43226d916197.png"
 ---
 
-Kafkai是一种机器学习算法，可以从头开始写文章。面向营销人员和 SEO 的尖端技术。
+Kafkai是一种机器学习算法，可以从头开始写文章。面向营销人员和 SEO 的尖端技术。 

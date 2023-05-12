@@ -14,4 +14,4 @@ thumb_image: "/img/3e34349e9d6d8f8494dfeaea35a7a698.jpg"
 cover_image: "/img/3e34349e9d6d8f8494dfeaea35a7a698.jpg"
 ---
 
-一键生成 AI 驱动的图像。借助 Airbrush 的 AI 技术，您可以在几秒钟内创建原始库存照片、NFT、艺术品等。
+一键生成 AI 驱动的图像。借助 Airbrush 的 AI 技术，您可以在几秒钟内创建原始库存照片、NFT、艺术品等。 

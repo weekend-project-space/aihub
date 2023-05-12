@@ -1,6 +1,6 @@
 ---
 title: "HeyCLI"
-description: "heyCLI 可以通过将自然语言转换为终端命令来帮助您。"
+description: "heyCLI 可以通过将自然语言转换为终端命令来帮助您。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/f269104d4c4a7b041c62dd2e004c4f9e.png"
 cover_image: "/img/f269104d4c4a7b041c62dd2e004c4f9e.png"
 ---
 
-heyCLI 可以通过将自然语言转换为终端命令来帮助您。
+heyCLI 可以通过将自然语言转换为终端命令来帮助您。 

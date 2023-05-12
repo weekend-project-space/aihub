@@ -16,4 +16,4 @@ thumb_image: "/img/ccde2215f9cf999ee66f7afecf12c066.png"
 cover_image: "/img/ccde2215f9cf999ee66f7afecf12c066.png"
 ---
 
-将 DALLE 2 和 Stable Diffusion 添加到 Adobe Photoshop。具有多种功能，例如文本到图像，图像到图像，修复和用于外画的新服务器。 您还可以获得经过验证的工作流程来预览和调整图像
+将 DALLE 2 和 Stable Diffusion 添加到 Adobe Photoshop。具有多种功能，例如文本到图像，图像到图像，修复和用于外画的新服务器。 您还可以获得经过验证的工作流程来预览和调整图像 

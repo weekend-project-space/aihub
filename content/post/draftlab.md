@@ -14,4 +14,4 @@ thumb_image: "/img/b9e9cc0dc0ec726345baf6b12798f132.png"
 cover_image: "/img/b9e9cc0dc0ec726345baf6b12798f132.png"
 ---
 
-您的 Gmail 副驾驶。更快地编写更好的电子邮件。使用 Gmail 版 DraftLab Chrome 扩展程序，将收件箱零点提高 10 倍。
+您的 Gmail 副驾驶。更快地编写更好的电子邮件。使用 Gmail 版 DraftLab Chrome 扩展程序，将收件箱零点提高 10 倍。 

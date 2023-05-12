@@ -16,4 +16,4 @@ thumb_image: "/img/7f7b2facfe38e6bc7858f0b8e9679366.png"
 cover_image: "/img/7f7b2facfe38e6bc7858f0b8e9679366.png"
 ---
 
-Waymark 的 AI 视频创建器可以轻松地为任何潜在客户创建规范创意。现在，您可以使用完全自定义的示例广告进入每个会议。
+Waymark 的 AI 视频创建器可以轻松地为任何潜在客户创建规范创意。现在，您可以使用完全自定义的示例广告进入每个会议。 

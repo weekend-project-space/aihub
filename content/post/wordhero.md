@@ -1,6 +1,6 @@
 ---
 title: "Wordhero"
-description: "借助 WordHero 的 AI 技术，您可以在几秒钟内创建原创博客文章、社交媒体内容、电子邮件等。"
+description: "借助 WordHero 的 AI 技术，您可以在几秒钟内创建原创博客文章、社交媒体内容、电子邮件等。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/12bad7a74467bf680fcd59075e389382.png"
 cover_image: "/img/12bad7a74467bf680fcd59075e389382.png"
 ---
 
-借助 WordHero 的 AI 技术，您可以在几秒钟内创建原创博客文章、社交媒体内容、电子邮件等。
+借助 WordHero 的 AI 技术，您可以在几秒钟内创建原创博客文章、社交媒体内容、电子邮件等。 

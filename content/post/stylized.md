@@ -1,6 +1,6 @@
 ---
 title: "Stylized"
-description: "专业产品照片在几秒钟内。 Stylized使用人工智能来创建令人惊叹的产品照片和社论 – 无需工作室"
+description: "专业产品照片在几秒钟内。 Stylized使用人工智能来创建令人惊叹的产品照片和社论 – 无需工作室 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/33a02e3cdfe676e1dd949caa815d37bb.png"
 cover_image: "/img/33a02e3cdfe676e1dd949caa815d37bb.png"
 ---
 
-专业产品照片在几秒钟内。 Stylized使用人工智能来创建令人惊叹的产品照片和社论 – 无需工作室
+专业产品照片在几秒钟内。 Stylized使用人工智能来创建令人惊叹的产品照片和社论 – 无需工作室 

@@ -1,6 +1,6 @@
 ---
 title: "Elephas"
-description: "唯一可与 Mac 集成的 AI 编写器。 跨应用程序工作。"
+description: "唯一可与 Mac 集成的 AI 编写器。 跨应用程序工作。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/58f43b67133fee9938a32ec1145e8870.png"
 cover_image: "/img/58f43b67133fee9938a32ec1145e8870.png"
 ---
 
-唯一可与 Mac 集成的 AI 编写器。 跨应用程序工作。
+唯一可与 Mac 集成的 AI 编写器。 跨应用程序工作。 

@@ -1,6 +1,6 @@
 ---
 title: "Coqui"
-description: "科基，自由言语"
+description: "科基，自由言语 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/462cf343a1566a433fad74233e625042.png"
 cover_image: "/img/462cf343a1566a433fad74233e625042.png"
 ---
 
-科基，自由言语
+科基，自由言语 

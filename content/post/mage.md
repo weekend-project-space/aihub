@@ -1,6 +1,6 @@
 ---
 title: "Mage"
-description: "免费，快速和未经过滤的稳定扩散，文本到图像的AI?"
+description: "免费，快速和未经过滤的稳定扩散，文本到图像的AI? "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/a9c9c707709b157b0e8ae2b7d2926fec.jpg"
 cover_image: "/img/a9c9c707709b157b0e8ae2b7d2926fec.jpg"
 ---
 
-免费，快速和未经过滤的稳定扩散，文本到图像的AI?
+免费，快速和未经过滤的稳定扩散，文本到图像的AI? 

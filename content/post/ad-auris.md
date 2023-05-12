@@ -15,4 +15,4 @@ thumb_image: "/img/828b48d22ba418f726eddc767e3f3338.png"
 cover_image: "/img/828b48d22ba418f726eddc767e3f3338.png"
 ---
 
-随时随地收听文章！ 创建文章播放列表并在Spotify，Apple Podcasts和Google Podcasts上收听
+随时随地收听文章！ 创建文章播放列表并在Spotify，Apple Podcasts和Google Podcasts上收听 

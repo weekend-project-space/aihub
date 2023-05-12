@@ -16,4 +16,4 @@ thumb_image: "/img/d6441afa3bea229bf40a66a154ba8b12.png"
 cover_image: "/img/d6441afa3bea229bf40a66a154ba8b12.png"
 ---
 
-通过为人们提供 AI 评级来帮助人们优化他们的 YouTube 缩略图。 选择一个图像或将其拖到网站上，您将获得有关改进缩略图的建议。
+通过为人们提供 AI 评级来帮助人们优化他们的 YouTube 缩略图。 选择一个图像或将其拖到网站上，您将获得有关改进缩略图的建议。 

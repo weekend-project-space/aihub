@@ -16,4 +16,4 @@ thumb_image: "/img/4c8fd2c4426ce14d2ead0edc9f4ce73a.png"
 cover_image: "/img/4c8fd2c4426ce14d2ead0edc9f4ce73a.png"
 ---
 
-ProductBot 是一个人工智能产品专家和推荐者，可帮助用户做出购买决定。用户可以指定他们的需求，该工具将建议相关产品。
+ProductBot 是一个人工智能产品专家和推荐者，可帮助用户做出购买决定。用户可以指定他们的需求，该工具将建议相关产品。 

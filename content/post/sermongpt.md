@@ -1,6 +1,6 @@
 ---
 title: "SermonGPT"
-description: "讲道GPT根据提示和其他细节（如事件和讲道风格）为您撰写讲道。"
+description: "讲道GPT根据提示和其他细节（如事件和讲道风格）为您撰写讲道。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/ffdd7e894465d702d2d28246fb1c1f26.png"
 cover_image: "/img/ffdd7e894465d702d2d28246fb1c1f26.png"
 ---
 
-讲道GPT根据提示和其他细节（如事件和讲道风格）为您撰写讲道。
+讲道GPT根据提示和其他细节（如事件和讲道风格）为您撰写讲道。 

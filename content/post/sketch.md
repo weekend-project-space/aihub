@@ -15,4 +15,4 @@ thumb_image: "/img/9aefd9f8ddd7a1a8e53ff2b4722c5d16.png"
 cover_image: "/img/9aefd9f8ddd7a1a8e53ff2b4722c5d16.png"
 ---
 
-Sketch 是熊猫用户的 AI 代码编写助手，可以理解数据的上下文，大大提高建议的相关性。Sketch 可在几秒钟内使用，不需要向 IDE 添加插件
+Sketch 是熊猫用户的 AI 代码编写助手，可以理解数据的上下文，大大提高建议的相关性。Sketch 可在几秒钟内使用，不需要向 IDE 添加插件 

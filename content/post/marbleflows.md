@@ -1,6 +1,6 @@
 ---
 title: "MarbleFlows"
-description: "AI 生成的表单可转换更多潜在客户。"
+description: "AI 生成的表单可转换更多潜在客户。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/4701857faf304b0d549d575624cdda0b.png"
 cover_image: "/img/4701857faf304b0d549d575624cdda0b.png"
 ---
 
-AI 生成的表单可转换更多潜在客户。
+AI 生成的表单可转换更多潜在客户。 

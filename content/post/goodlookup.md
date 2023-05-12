@@ -1,6 +1,6 @@
 ---
 title: "Goodlookup"
-description: "Goodlookup是电子表格用户的智能功能。它为普通人提供了人工智能语言模型的好处。"
+description: "Goodlookup是电子表格用户的智能功能。它为普通人提供了人工智能语言模型的好处。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -18,4 +18,4 @@ thumb_image: "/img/4cc2f5a89d185c79842a5b8450cf44f8.png"
 cover_image: "/img/4cc2f5a89d185c79842a5b8450cf44f8.png"
 ---
 
-Goodlookup是电子表格用户的智能功能。它为普通人提供了人工智能语言模型的好处。
+Goodlookup是电子表格用户的智能功能。它为普通人提供了人工智能语言模型的好处。 

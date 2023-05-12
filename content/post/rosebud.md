@@ -1,6 +1,6 @@
 ---
 title: "Rosebud"
-description: "AI 生成的视觉效果 我们让您轻松获得所需的确切视觉效果。"
+description: "AI 生成的视觉效果 我们让您轻松获得所需的确切视觉效果。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/2de54244f8d06f55df88535ae5633fa6.png"
 cover_image: "/img/2de54244f8d06f55df88535ae5633fa6.png"
 ---
 
-AI 生成的视觉效果 我们让您轻松获得所需的确切视觉效果。
+AI 生成的视觉效果 我们让您轻松获得所需的确切视觉效果。 

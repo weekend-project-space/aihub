@@ -16,4 +16,4 @@ thumb_image: "/img/bfcb3252437fa53c65ebe3260529a993.png"
 cover_image: "/img/bfcb3252437fa53c65ebe3260529a993.png"
 ---
 
-Shumai是一个开源的，快速的，网络连接的，可微分的张量库，用于TypeScript（和JavaScript）。内置包子+手电筒，适合软件工程师和研究人员。
+Shumai是一个开源的，快速的，网络连接的，可微分的张量库，用于TypeScript（和JavaScript）。内置包子+手电筒，适合软件工程师和研究人员。 

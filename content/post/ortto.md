@@ -1,6 +1,6 @@
 ---
 title: "Ortto"
-description: "Ortto AI 可帮助您编写高性能的电子邮件主题行，仅从大纲中引人入胜的短信和电子邮件内容。智能推动结果。"
+description: "Ortto AI 可帮助您编写高性能的电子邮件主题行，仅从大纲中引人入胜的短信和电子邮件内容。智能推动结果。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -15,4 +15,4 @@ thumb_image: "/img/97fc43da0a82e7eccb4d1f6740655bc3.png"
 cover_image: "/img/97fc43da0a82e7eccb4d1f6740655bc3.png"
 ---
 
-Ortto AI 可帮助您编写高性能的电子邮件主题行，仅从大纲中引人入胜的短信和电子邮件内容。智能推动结果。
+Ortto AI 可帮助您编写高性能的电子邮件主题行，仅从大纲中引人入胜的短信和电子邮件内容。智能推动结果。 

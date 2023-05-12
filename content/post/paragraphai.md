@@ -1,6 +1,6 @@
 ---
 title: "ParagraphAI"
-description: "段落AI 是一款 AI 写作应用程序，可编写清晰、简洁且无错误的内容。"
+description: "段落AI 是一款 AI 写作应用程序，可编写清晰、简洁且无错误的内容。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/3168af13c970b9cd41a8a8ffe392f2a9.png"
 cover_image: "/img/3168af13c970b9cd41a8a8ffe392f2a9.png"
 ---
 
-段落AI 是一款 AI 写作应用程序，可编写清晰、简洁且无错误的内容。
+段落AI 是一款 AI 写作应用程序，可编写清晰、简洁且无错误的内容。 

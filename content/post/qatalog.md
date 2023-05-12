@@ -1,6 +1,6 @@
 ---
 title: "Qatalog"
-description: "定制的工作操作系统。Qatalog 是一种项目管理/协作 AI 工具，可实现人员、运营和知识的无缝管理。"
+description: "定制的工作操作系统。Qatalog 是一种项目管理/协作 AI 工具，可实现人员、运营和知识的无缝管理。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -17,4 +17,4 @@ thumb_image: "/img/1f1c2750c38c980edc858fbb63bd1f08.png"
 cover_image: "/img/1f1c2750c38c980edc858fbb63bd1f08.png"
 ---
 
-定制的工作操作系统。Qatalog 是一种项目管理/协作 AI 工具，可实现人员、运营和知识的无缝管理。
+定制的工作操作系统。Qatalog 是一种项目管理/协作 AI 工具，可实现人员、运营和知识的无缝管理。 

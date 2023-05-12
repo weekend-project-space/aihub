@@ -1,6 +1,6 @@
 ---
 title: "TTSLabs – Home"
-description: "Beatoven.ai 使用先进的 AI 音乐生成技术来创作独特的基于情绪的音乐，以适应您的视频或播客的每个部分"
+description: "Beatoven.ai 使用先进的 AI 音乐生成技术来创作独特的基于情绪的音乐，以适应您的视频或播客的每个部分 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/59d9b2d81097af06d5c68287e5b33f9c.png"
 cover_image: "/img/59d9b2d81097af06d5c68287e5b33f9c.png"
 ---
 
-Beatoven.ai 使用先进的 AI 音乐生成技术来创作独特的基于情绪的音乐，以适应您的视频或播客的每个部分
+Beatoven.ai 使用先进的 AI 音乐生成技术来创作独特的基于情绪的音乐，以适应您的视频或播客的每个部分 

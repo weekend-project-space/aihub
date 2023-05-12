@@ -1,6 +1,6 @@
 ---
 title: "Delve"
-description: "为您的业务和竞争对手的业务自动创建角色"
+description: "为您的业务和竞争对手的业务自动创建角色 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/be8358212787d4bb7a9fc6927ec137f8.png"
 cover_image: "/img/be8358212787d4bb7a9fc6927ec137f8.png"
 ---
 
-为您的业务和竞争对手的业务自动创建角色
+为您的业务和竞争对手的业务自动创建角色 

@@ -18,4 +18,4 @@ thumb_image: "/img/309ba905acdf48264f9d3cce8a912e5b.png"
 cover_image: "/img/309ba905acdf48264f9d3cce8a912e5b.png"
 ---
 
-CodeGeeX 是一个具有 13 亿个参数的大规模多语言代码生成模型，在 20 多种语言的大型代码语料库上进行了预训练。CodeGeeX 支持 15+ 种编程语言进行代码生成和翻译
+CodeGeeX 是一个具有 13 亿个参数的大规模多语言代码生成模型，在 20 多种语言的大型代码语料库上进行了预训练。CodeGeeX 支持 15+ 种编程语言进行代码生成和翻译 

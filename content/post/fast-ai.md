@@ -1,6 +1,6 @@
 ---
 title: "fast.ai"
-description: "fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。"
+description: "fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -16,4 +16,4 @@ thumb_image: "/img/de981b6b7bb92ed2ff2f050d7f42c542.png"
 cover_image: "/img/de981b6b7bb92ed2ff2f050d7f42c542.png"
 ---
 
-fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。
+fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。 

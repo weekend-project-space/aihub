@@ -1,6 +1,6 @@
 ---
 title: "AI Social Bio"
-description: "您的社交媒体简历，由人工智能创建。"
+description: "您的社交媒体简历，由人工智能创建。 "
 author: "瑞东"
 date: "2023-03-30"
 tags:
@@ -14,4 +14,4 @@ thumb_image: "/img/8fb15f18308f4a57180fd2f409cbc4ac.png"
 cover_image: "/img/8fb15f18308f4a57180fd2f409cbc4ac.png"
 ---
 
-您的社交媒体简历，由人工智能创建。
+您的社交媒体简历，由人工智能创建。 
